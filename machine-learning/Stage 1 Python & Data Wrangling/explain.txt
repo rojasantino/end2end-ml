@@ -1,0 +1,105 @@
+🧠 1. Grade Distribution (Top-left)
+🔍 What you see:
+Most students are in Grade C (321 students)
+Then Grade B (167)
+Very few in A (1) and D (11)
+🗣️ How to explain:
+
+👉 “Most students are performing at an average level (Grade C). Very few high performers (A), so improvement strategies are needed.”
+
+💡 Insight:
+Overall performance = moderate
+Need to push students from C → B/A
+🇹🇳 Tamil:
+
+👉 “அதிகமான மாணவர்கள் average level (C grade)ல இருக்காங்க”
+
+📊 2. Average Score Distribution (Top-middle)
+🔍 What you see:
+Bell-shaped (normal distribution)
+Mean ≈ 67.5
+🗣️ How to explain:
+
+👉 “Scores are normally distributed around 67, meaning most students score between 60–75.”
+
+💡 Insight:
+No extreme skew → data is balanced
+System is consistent
+🇹🇳:
+
+👉 “Marks mostly 60–75 rangeல தான் இருக்கு”
+
+📦 3. Subject-wise Box Plot (Top-right)
+🔍 What you see:
+Median (red line)
+Spread (box)
+Outliers (dots)
+🗣️ How to explain:
+
+👉 “Tamil and English have slightly higher median scores, while Programming shows more variation.”
+
+💡 Insight:
+Programming = inconsistent performance
+Tamil = stable scoring subject
+🇹🇳:
+
+👉 “Programming subjectல marks variation அதிகம்”
+
+🏫 4. Avg Score by Department (Bottom-left)
+🔍 What you see:
+All departments ~67–68
+Very small difference
+🗣️ How to explain:
+
+👉 “All departments perform similarly, with Information Technology slightly higher.”
+
+💡 Insight:
+No department is weak
+Teaching quality is consistent
+🇹🇳:
+
+👉 “All departments almost same performance”
+
+⏱️ 5. Study Hours vs Score (Bottom-middle)
+🔍 What you see:
+Scatter plot
+Correlation r ≈ 0.01 (almost zero)
+🗣️ How to explain:
+
+👉 “There is almost no relationship between study hours and scores.”
+
+⚠️ Important Insight:
+Studying more ≠ scoring more (in this dataset)
+
+👉 Possible reasons:
+
+Study quality matters, not time
+Other factors (attendance, basics)
+🇹🇳:
+
+👉 “Study hours அதிகமா இருந்தாலும் marks increase ஆகல”
+
+💼 6. Pass/Fail by Part-time Job (Bottom-right)
+🔍 What you see:
+Students without job → more pass
+Students with job → fewer students, slightly lower pass
+🗣️ How to explain:
+
+👉 “Students without part-time jobs tend to perform better.”
+
+💡 Insight:
+Job may reduce study time
+🇹🇳:
+
+👉 “Part-time job இல்லாதவர்கள் better perform பண்ணுறாங்க”
+
+
+
+
+“From the dashboard, most students are performing at an average level (Grade C). 
+The score distribution is normal with a mean around 67. 
+Department-wise performance is consistent. However, 
+study hours show almost no correlation with scores, 
+indicating that quality of study may matter more than quantity. 
+Additionally, students without part-time jobs tend to perform slightly better. 
+Programming subject shows higher variability, suggesting inconsistent understanding among students.”

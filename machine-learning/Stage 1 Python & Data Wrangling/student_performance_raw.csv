@@ -1,0 +1,501 @@
+student_id,name,gender,age,department,region,attendance_pct,study_hours_per_day,math_score,science_score,english_score,programming_score,tamil_score,part_time_job,internet_access,parent_education,family_income_lpa
+STU1000,Pradeep Krishnan,Male,20,Civil,Tirunelveli,78.4,4,47,53,69,70,73,No,Yes,Graduate,1.5
+STU1001,Bhavani Devi,Female,20,Electronics,Madurai,67.8,7.5,62,47,53,83,92,No,Yes,Graduate,1.6
+STU1002,Suresh Velu,Male,21,Information Technology,Trichy,80.1,4.5,92,77,83,45,90,Yes,Yes,Post-Graduate,2.3
+STU1003,Ganesh Narayanan,Male,21,Mechanical,Trichy,80.9,5.5,93,64,100,53,86,Yes,No,Post-Graduate,8.6
+STU1004,Arjun Subramanian,Male,19,Computer Science,Vellore,67.7,4.8,46,47,64,100,100,No,No,Post-Graduate,3.1
+STU1005,Kavya Pillai,Female,20,Computer Science,Coimbatore,67.4,4,51,77,66,88,81,Yes,Yes,Graduate,5.1
+STU1006,Karthik Pillai,Male,20,Computer Science,Chennai,89.5,1.6,64,57,38,71,84,No,Yes,Diploma,2.2
+STU1007,Bala Kumar,Male,22,Electronics,Coimbatore,77.4,4.4,81,53,86,56,81,No,Yes,Post-Graduate,1.4
+STU1008,Dinesh Raj,Male,21,Civil,Madurai,,9.4,41,62,81,59,79,No,Yes,Graduate,13.9
+STU1009,Sneha Kumar,Female,20,Information Technology,Trichy,73.6,2.6,67,86,49,51,76,No,Yes,School,4.2
+STU1010,Mohan Rajan,Male,19,Mechanical,Coimbatore,65.9,1.8,61,,45,42,68,No,Yes,Graduate,12.2
+STU1011,Dinesh Narayanan,Male,19,Mechanical,Chennai,77.2,7.4,88,73,47,80,58,No,Yes,Graduate,1
+STU1012,Vijay Selvam,Male,20,Electronics,Vellore,88,5.6,43,75,78,73,71,No,Yes,Post-Graduate,1
+STU1013,Siva Velu,Male,21,Computer Science,Coimbatore,77.7,4.8,69,71,79,76,78,No,No,Graduate,8.7
+STU1014,Keerthana Kumar,Female,19,Electronics,Salem,100,6.5,62,83,59,57,73,No,Yes,Diploma,5.1
+STU1015,Siva Krishnan,Male,22,Civil,Vellore,83.1,3.3,90,55,76,68,60,No,Yes,Post-Graduate,1
+STU1016,Deepa Pandian,Female,19,Civil,Chennai,80.8,4.3,77,,72,55,70,Yes,Yes,Graduate,1.4
+STU1017,Sneha Subramanian,Female,18,Information Technology,Madurai,67.1,5.9,59,50,66,50,70,No,Yes,Graduate,7.3
+STU1018,Lakshmi Shankar,Female,18,Information Technology,Trichy,75.1,7.7,81,63,82,93,71,Yes,Yes,Diploma,2.7
+STU1019,Ganesh Kumar,Male,21,Civil,Coimbatore,68.7,2.7,62,52,56,65,77,No,Yes,Diploma,5
+STU1020,Deepa Krishnan,Female,20,Civil,Chennai,52,6.4,83,67,84,72,80,Yes,Yes,Graduate,1.7
+STU1021,Pradeep Velu,Male,21,Civil,Vellore,,5.1,64,66,61,78,66,No,Yes,School,2.2
+STU1022,Ananya Krishnan,Female,21,Electronics,Salem,71.9,4.7,84,79,91,65,83,No,Yes,Diploma,21.1
+STU1023,Divya Subramanian,Female,21,Civil,Chennai,68.9,4.5,75,69,58,67,84,Yes,No,Graduate,1.3
+STU1024,Deepa Selvam,Female,21,Mechanical,Erode,80.5,2.4,100,59,66,43,76,No,Yes,Diploma,3.2
+STU1025,Divya Krishnan,Female,22,Computer Science,Tirunelveli,84.1,5.9,67,71,71,47,79,No,Yes,Diploma,8.4
+STU1026,Priya Pandian,Female,22,Civil,Salem,74.2,3.3,74,51,71,46,83,No,Yes,School,1.2
+STU1027,Nithya Krishnan,Female,19,Computer Science,Vellore,78,2.9,61,64,76,74,60,No,Yes,Diploma,2.4
+STU1028,Priya Krishnan,Female,18,Electronics,Madurai,87,5.8,68,69,55,64,84,No,Yes,Graduate,4.3
+STU1029,Saranya Krishnan,Female,21,Computer Science,Trichy,73.7,5.7,27,67,70,47,63,No,Yes,Diploma,3
+STU1030,Mani Devi,Male,19,Electronics,Vellore,81.6,4.6,75,71,72,73,64,No,Yes,No Schooling,2.8
+STU1031,Mohan Devi,Male,18,Mechanical,Tirunelveli,58.1,6.1,88,56,64,73,74,No,Yes,Graduate,2
+STU1032,Pooja Selvam,Female,20,Electronics,Madurai,63.1,6.6,,81,75,50,48,Yes,Yes,Post-Graduate,4
+STU1033,Bhavani Kumar,Female,22,Electronics,Coimbatore,85.3,6.5,48,91,54,62,74,No,Yes,Graduate,4.4
+STU1034,Divya Krishnan,Female,18,Information Technology,Chennai,62.5,3.7,56,43,66,73,83,No,No,School,4.8
+STU1035,Ganesh Nair,Male,20,Civil,Erode,80.8,6,32,48,61,48,54,Yes,Yes,Diploma,1
+STU1036,Divya Narayanan,Female,18,Civil,Salem,76.2,4.8,83,66,66,73,84,No,Yes,Post-Graduate,4.5
+STU1037,Vijay Nair,Male,22,Mechanical,Salem,73.6,7.1,53,61,87,68,64,No,Yes,School,13.8
+STU1038,Karthik Kumar,Male,22,Mechanical,Chennai,,4.3,68,92,88,45,74,No,No,Graduate,3.5
+STU1039,Bala Selvam,Male,19,Civil,Erode,88.9,4,66,68,85,67,66,Yes,Yes,Diploma,5.7
+STU1040,Siva Raj,Male,21,Information Technology,Chennai,98.8,3.6,90,84,64,70,78,No,Yes,School,3.7
+STU1041,Kumar Raj,Male,18,Civil,Coimbatore,81.6,4.8,69,,81,52,83,No,Yes,Graduate,8.7
+STU1042,Revathi Murugan,Female,18,Information Technology,Tirunelveli,81.9,5.2,80,76,71,53,79,No,Yes,Graduate,11.9
+STU1043,Divya Nair,Female,20,Mechanical,Madurai,,5.2,76,55,71,45,72,No,Yes,Graduate,1
+STU1044,Pooja Kumar,Female,22,Computer Science,Vellore,,5,88,55,69,55,67,No,Yes,School,2.6
+STU1045,Saranya Kumar,Female,18,Mechanical,Salem,77.5,5.5,64,62,91,63,71,No,No,School,2.2
+STU1046,Anjali Ramesh,Female,22,Mechanical,Coimbatore,66.3,4.2,96,45,86,53,79,Yes,Yes,Graduate,2.3
+STU1047,Kumar Rajan,Male,18,Electronics,Madurai,56.7,3.2,38,71,79,36,80,No,No,Graduate,1
+STU1048,Anjali Shankar,Female,19,Electronics,Coimbatore,87.6,3.1,81,68,68,51,78,No,Yes,School,7.6
+STU1049,Priya Velu,Female,21,Electronics,Erode,88.2,6,55,69,70,55,58,No,Yes,School,1
+STU1050,Siva Ramesh,Male,18,Electronics,Salem,67.7,5.2,61,77,76,78,72,No,No,School,3.4
+STU1051,Keerthana Pandian,Female,22,Information Technology,Vellore,80.9,1.7,77,86,64,74,65,Yes,Yes,Post-Graduate,4.9
+STU1052,Naveen Devi,Male,19,Civil,Chennai,90,6.1,76,60,81,78,79,Yes,Yes,Graduate,1
+STU1053,Revathi Devi,Female,18,Computer Science,Chennai,80.5,7.3,77,72,59,50,64,No,Yes,Post-Graduate,10.6
+STU1054,Vijay Rajan,Male,20,Mechanical,Madurai,63.7,3.4,47,69,75,66,77,No,Yes,School,8.2
+STU1055,Pooja Subramanian,Female,21,Information Technology,Vellore,75.2,5,90,70,43,19,69,No,Yes,Post-Graduate,2.9
+STU1056,Sneha Subramanian,Female,18,Computer Science,Tirunelveli,93.9,3.8,54,70,63,71,51,No,Yes,School,2.4
+STU1057,Arun Selvam,Male,19,Information Technology,Trichy,81,5.4,56,87,95,74,82,Yes,Yes,Graduate,1.2
+STU1058,Karthik Pillai,Male,20,Information Technology,Erode,84.5,2.8,78,59,82,57,72,No,Yes,Graduate,5.9
+STU1059,Karthik Rajan,Male,19,Mechanical,Madurai,82.1,4.4,64,44,88,68,86,No,Yes,Diploma,1
+STU1060,Ganesh Shankar,Male,19,Civil,Trichy,67.7,6,73,55,62,36,54,No,Yes,Diploma,5.1
+STU1061,Pradeep Kumar,Male,20,Electronics,Coimbatore,70.5,6.4,36,76,71,49,69,No,Yes,School,8.3
+STU1062,Mohan Subramanian,Male,19,Civil,Erode,82.1,5.1,72,65,85,77,70,No,Yes,School,1.2
+STU1063,Vijay Shankar,Male,20,Mechanical,Coimbatore,87.8,4,71,58,78,72,75,No,Yes,Graduate,9.1
+STU1064,Bala Krishnan,Male,18,Mechanical,Tirunelveli,91.2,2.1,60,50,76,56,57,No,Yes,Graduate,1
+STU1065,Divya Nair,Female,20,Mechanical,Vellore,67.7,3.4,37,68,90,78,78,No,Yes,Graduate,11
+STU1066,Sneha Nair,Female,20,Computer Science,Salem,83.2,3.8,65,74,58,65,93,No,No,Graduate,1
+STU1067,Naveen Pillai,Male,21,Civil,Erode,92.2,3.5,67,69,68,54,77,Yes,Yes,Graduate,4.7
+STU1068,Bhavani Narayanan,Female,20,Civil,Trichy,66.2,4.6,62,61,49,60,73,Yes,Yes,No Schooling,1.3
+STU1069,Lakshmi Kumar,Female,20,Information Technology,Tirunelveli,95.8,4,40,67,57,55,57,Yes,Yes,School,8.2
+STU1070,Divya Velu,Female,18,Information Technology,Salem,97.7,4.8,92,67,83,42,63,No,Yes,Post-Graduate,3.2
+STU1071,Divya Velu,Female,21,Information Technology,Chennai,100,6.3,58,68,59,86,71,No,Yes,School,1
+STU1072,Mohan Pandian,Male,22,Mechanical,Trichy,80.8,3.9,65,48,79,53,66,No,Yes,Graduate,3.8
+STU1073,Priya Velu,Female,18,Civil,Madurai,80.8,2.4,32,68,90,48,83,No,Yes,School,2.4
+STU1074,Ravi Krishnan,Male,18,Mechanical,Chennai,87.9,3.4,92,59,68,35,78,No,No,Graduate,4.9
+STU1075,Divya Krishnan,Female,22,Computer Science,Tirunelveli,,5.4,61,80,76,16,100,No,Yes,Graduate,9.6
+STU1076,Lakshmi Nair,Female,20,Information Technology,Chennai,91.5,5.5,69,67,79,76,61,Yes,Yes,School,2.4
+STU1077,Sneha Rajan,Female,19,Mechanical,Madurai,87.4,5.1,,77,55,77,72,No,Yes,Diploma,1.5
+STU1078,Mohan Pillai,Male,21,Mechanical,Erode,76.7,6.5,58,61,63,84,57,No,No,Graduate,1
+STU1079,Ananya Selvam,Female,19,Computer Science,Chennai,92.7,4.2,82,61,58,60,48,No,Yes,Diploma,
+STU1080,Arun Pandian,Male,22,Electronics,Vellore,65.1,7.6,37,86,64,57,80,No,Yes,School,2.3
+STU1081,Meena Subramanian,Female,18,Civil,Trichy,78.1,5.7,76,71,79,54,77,No,Yes,Graduate,2.1
+STU1082,Arjun Shankar,Male,18,Electronics,Salem,96.8,1,92,55,63,56,63,No,Yes,School,1
+STU1083,Nithya Rajan,Female,21,Information Technology,Chennai,63,7.2,59,78,70,83,73,No,Yes,Post-Graduate,2.5
+STU1084,Suresh Subramanian,Male,18,Mechanical,Trichy,69.9,3.3,85,58,57,63,65,No,Yes,Graduate,18.7
+STU1085,Arun Rajan,Male,18,Computer Science,Coimbatore,86.1,2.9,,68,85,70,67,Yes,Yes,School,1.6
+STU1086,Revathi Rajan,Female,21,Computer Science,Trichy,82.7,5.3,64,91,63,55,68,No,Yes,Graduate,4.1
+STU1087,Arun Rajan,Male,21,Civil,Salem,67.5,1.9,63,45,88,87,62,No,Yes,Graduate,6.7
+STU1088,Meena Nair,Female,22,Electronics,Trichy,73,3.5,55,63,71,29,64,Yes,Yes,Diploma,6.2
+STU1089,Pooja Velu,Female,18,Civil,Madurai,63.8,6.8,60,71,53,41,64,No,Yes,Diploma,
+STU1090,Anjali Pillai,Female,18,Mechanical,Tirunelveli,89.8,5.3,56,76,68,70,77,No,Yes,Diploma,4.2
+STU1091,Lakshmi Selvam,Female,22,Civil,Salem,74.9,5.7,55,48,57,95,41,No,Yes,Diploma,9.2
+STU1092,Bhavani Velu,Female,20,Computer Science,Tirunelveli,99.5,3.5,86,43,77,59,69,No,Yes,School,1
+STU1093,Anjali Rajan,Female,20,Computer Science,Erode,79,2.2,56,80,67,48,60,No,Yes,Diploma,2.6
+STU1094,Keerthana Murugan,Female,20,Information Technology,Tirunelveli,75.4,5.6,72,55,72,81,60,No,Yes,Diploma,1.1
+STU1095,Sneha Narayanan,Female,22,Information Technology,Coimbatore,74.2,5.9,69,54,66,69,66,Yes,Yes,Graduate,2.2
+STU1096,Kavya Subramanian,Female,18,Mechanical,Madurai,75.1,5.8,90,87,63,86,72,Yes,Yes,Graduate,2.4
+STU1097,Pooja Kumar,Female,22,Electronics,Erode,79.3,4.8,60,66,58,40,70,Yes,Yes,Graduate,6.2
+STU1098,Nithya Ramesh,Female,22,Civil,Trichy,100,3,74,66,80,85,60,No,Yes,Graduate,1
+STU1099,Ravi Velu,Male,20,Mechanical,Salem,73.9,8.2,80,62,68,35,80,No,Yes,Graduate,3.2
+STU1100,Kumar Shankar,Male,19,Information Technology,Coimbatore,74.3,5.2,90,48,66,58,62,No,No,Graduate,3.7
+STU1101,Deepa Nair,Female,18,Civil,Madurai,78.8,4.2,60,74,68,70,64,No,Yes,Graduate,3.1
+STU1102,Revathi Pandian,Female,20,Information Technology,Erode,91.1,4.2,59,71,62,66,75,No,No,Diploma,5.9
+STU1103,Divya Devi,Female,19,Civil,Erode,60.9,4.7,52,67,66,82,76,No,Yes,Post-Graduate,2.2
+STU1104,Keerthana Selvam,Female,19,Electronics,Coimbatore,83.5,6.1,100,63,72,30,65,No,Yes,No Schooling,13
+STU1105,Kavya Kumar,Female,21,Mechanical,Vellore,68.2,4.8,89,61,58,66,40,No,Yes,Diploma,3
+STU1106,Priya Krishnan,Female,18,Civil,Trichy,84.6,5.8,67,78,59,85,62,No,Yes,Graduate,3.8
+STU1107,Nithya Raj,Female,19,Computer Science,Coimbatore,72.1,4.7,97,63,87,64,74,No,Yes,School,
+STU1108,Sneha Murugan,Female,20,Computer Science,Erode,50.4,4.3,66,64,66,42,80,No,Yes,School,1.4
+STU1109,Vijay Devi,Male,21,Civil,Chennai,82.4,5.5,79,72,63,81,71,No,Yes,Graduate,1
+STU1110,Revathi Ramesh,Female,18,Civil,Madurai,82.3,5.4,68,68,54,51,67,Yes,Yes,Graduate,5.5
+STU1111,Dinesh Kumar,Male,22,Civil,Coimbatore,71.1,4.2,74,88,80,48,97,No,Yes,Graduate,3
+STU1112,Pooja Devi,Female,20,Computer Science,Vellore,70.3,3.4,72,40,57,46,68,No,Yes,Graduate,
+STU1113,Divya Kumar,Female,19,Computer Science,Erode,62.3,5,62,69,70,59,79,No,Yes,School,18.3
+STU1114,Suresh Shankar,Male,19,Civil,Trichy,87.3,4.6,84,55,50,66,57,No,Yes,No Schooling,2.3
+STU1115,Divya Murugan,Female,20,Information Technology,Tirunelveli,88.6,3.7,79,52,80,40,60,No,Yes,Graduate,2.4
+STU1116,Suresh Ramesh,Male,19,Information Technology,Erode,67.5,3.2,83,59,84,44,79,No,Yes,Diploma,2.4
+STU1117,Keerthana Krishnan,Female,21,Electronics,Trichy,71.5,5.1,,66,76,50,83,No,Yes,Graduate,1.8
+STU1118,Pooja Rajan,Female,18,Mechanical,Coimbatore,77.2,5.3,54,66,52,46,68,No,No,School,6.8
+STU1119,Pradeep Subramanian,Male,21,Information Technology,Trichy,100,4,94,44,80,64,52,No,Yes,Diploma,6.4
+STU1120,Saranya Krishnan,Female,19,Computer Science,Salem,84.5,3.6,64,57,60,70,70,No,Yes,Graduate,2.9
+STU1121,Arun Rajan,Male,22,Information Technology,Salem,66.7,3.3,73,69,56,67,74,No,Yes,Graduate,
+STU1122,Meena Raj,Female,18,Electronics,Salem,81.6,5.1,78,53,65,67,73,No,Yes,Graduate,1.7
+STU1123,Arjun Nair,Male,18,Electronics,Vellore,61.5,3.3,73,49,65,93,66,Yes,Yes,Diploma,1.6
+STU1124,Dinesh Pillai,Male,20,Mechanical,Vellore,86.6,7.9,82,33,64,71,70,No,Yes,Diploma,7.5
+STU1125,Divya Pillai,Female,20,Information Technology,Chennai,98.1,3.9,84,56,85,77,64,No,Yes,School,1
+STU1126,Priya Pillai,Female,22,Computer Science,Vellore,98.2,1,65,49,94,56,60,No,No,School,7.4
+STU1127,Pradeep Selvam,Male,18,Computer Science,Tirunelveli,86.8,4.5,92,51,54,80,80,Yes,Yes,Diploma,5
+STU1128,Deepa Velu,Female,22,Civil,Coimbatore,71,4.4,64,61,62,55,73,Yes,Yes,Diploma,5.9
+STU1129,Keerthana Narayanan,Female,20,Computer Science,Erode,62.4,6.2,73,57,72,70,70,Yes,No,Graduate,2.5
+STU1130,Lakshmi Pandian,Female,20,Mechanical,Erode,61.2,4.9,62,49,65,38,66,Yes,Yes,Diploma,5.1
+STU1131,Bala Pandian,Male,18,Mechanical,Chennai,44.3,3.2,58,35,75,66,70,No,Yes,Graduate,4.2
+STU1132,Siva Velu,Male,21,Computer Science,Vellore,86.3,4.1,84,69,81,45,74,No,Yes,Post-Graduate,6.6
+STU1133,Kumar Pillai,Male,19,Computer Science,Tirunelveli,76.8,5,100,76,79,80,91,No,Yes,Diploma,2.7
+STU1134,Suresh Subramanian,Male,20,Civil,Trichy,88.9,1.3,63,59,77,79,79,No,Yes,School,2.9
+STU1135,Arjun Ramesh,Male,20,Computer Science,Chennai,95.1,6.5,86,61,90,55,65,No,Yes,School,4.6
+STU1136,Kumar Murugan,Male,21,Civil,Tirunelveli,79.2,3.3,63,65,51,100,65,No,Yes,Graduate,1
+STU1137,Ganesh Ramesh,Male,21,Civil,Trichy,79.8,6.6,68,87,88,58,63,No,No,Diploma,2.6
+STU1138,Pradeep Murugan,Male,22,Computer Science,Tirunelveli,,5.1,94,43,65,34,70,Yes,Yes,School,16.1
+STU1139,Suresh Ramesh,Male,22,Electronics,Trichy,73.8,5.4,52,59,79,49,63,No,No,Graduate,1
+STU1140,Lakshmi Narayanan,Female,19,Electronics,Madurai,86.7,6.2,48,41,58,44,77,No,No,School,1.7
+STU1141,Kumar Selvam,Male,19,Civil,Tirunelveli,75.9,5.4,67,,59,70,43,Yes,Yes,Graduate,1.7
+STU1142,Pooja Selvam,Female,18,Computer Science,Erode,74.2,5.5,78,63,78,41,78,No,Yes,Graduate,4.5
+STU1143,Kavya Pillai,Female,22,Electronics,Salem,77.8,4.3,75,68,47,53,75,No,Yes,Graduate,1
+STU1144,Revathi Raj,Female,20,Computer Science,Vellore,88.6,5.1,73,67,82,69,86,No,Yes,School,4.5
+STU1145,Dinesh Rajan,Male,22,Computer Science,Trichy,69.7,3.6,69,79,85,65,82,No,Yes,Post-Graduate,1
+STU1146,Vijay Raj,Male,20,Computer Science,Madurai,77.2,4,,73,72,63,64,Yes,No,Graduate,
+STU1147,Suresh Devi,Male,21,Information Technology,Tirunelveli,80.9,7.4,24,77,72,65,80,No,Yes,School,
+STU1148,Mohan Selvam,Male,22,Computer Science,Erode,91.9,3.3,57,50,60,56,70,No,Yes,School,1.8
+STU1149,Saranya Selvam,Female,21,Information Technology,Salem,75.1,4.7,67,82,78,34,51,No,Yes,Diploma,17.1
+STU1150,Kumar Krishnan,Male,19,Civil,Trichy,69.4,4.7,79,55,74,56,74,Yes,Yes,Graduate,1
+STU1151,Naveen Krishnan,Male,19,Electronics,Tirunelveli,72.2,4,90,56,59,71,65,No,Yes,Graduate,2.7
+STU1152,Arun Rajan,Male,18,Electronics,Tirunelveli,90.6,5.3,55,69,65,61,72,No,Yes,Graduate,1
+STU1153,Suresh Shankar,Male,22,Electronics,Trichy,100,5.4,90,69,68,70,90,No,Yes,Post-Graduate,1.9
+STU1154,Pradeep Devi,Male,21,Electronics,Chennai,62.2,3.1,61,50,65,52,74,No,Yes,No Schooling,25
+STU1155,Priya Raj,Female,20,Electronics,Chennai,64.9,4.7,66,63,54,81,61,No,Yes,No Schooling,9.9
+STU1156,Naveen Subramanian,Male,19,Electronics,Erode,76,2.9,77,86,78,17,83,No,Yes,Post-Graduate,1
+STU1157,Keerthana Krishnan,Female,19,Electronics,Salem,79.3,5.7,65,44,67,66,76,No,Yes,Graduate,3.7
+STU1158,Naveen Subramanian,Male,20,Civil,Trichy,87.4,4.8,85,86,70,87,60,No,Yes,Diploma,4.7
+STU1159,Anjali Kumar,Female,21,Computer Science,Erode,67.3,4.6,62,62,63,90,54,No,Yes,Graduate,1.1
+STU1160,Suresh Krishnan,Male,21,Mechanical,Erode,65.2,5.5,62,32,76,59,61,Yes,Yes,Post-Graduate,1
+STU1161,Arun Narayanan,Male,22,Information Technology,Coimbatore,79.7,4.1,84,46,72,39,81,Yes,Yes,Graduate,10.6
+STU1162,Divya Shankar,Female,22,Mechanical,Tirunelveli,74.9,5.9,57,52,85,88,69,No,No,Graduate,15.6
+STU1163,Divya Devi,Female,18,Mechanical,Vellore,89.1,3.1,72,56,76,62,73,No,Yes,Graduate,21.7
+STU1164,Meena Nair,Female,19,Computer Science,Tirunelveli,83.8,6.6,43,64,68,60,57,No,Yes,School,7
+STU1165,Ganesh Rajan,Male,22,Computer Science,Chennai,84.7,3.7,95,27,61,47,81,No,No,Graduate,4.9
+STU1166,Anjali Kumar,Female,21,Computer Science,Salem,76.7,2,,68,80,41,50,No,Yes,School,1.9
+STU1167,Arjun Nair,Male,20,Electronics,Tirunelveli,100,4,100,,67,73,65,Yes,Yes,Post-Graduate,1
+STU1168,Naveen Devi,Male,21,Civil,Trichy,67.9,3.8,88,84,68,75,77,Yes,No,Diploma,1
+STU1169,Keerthana Raj,Female,19,Electronics,Erode,85.3,4,51,61,68,67,60,Yes,Yes,Graduate,5.3
+STU1170,Meena Pillai,Female,21,Civil,Trichy,62.8,4.8,78,78,65,49,79,No,Yes,Diploma,6.9
+STU1171,Ganesh Narayanan,Male,18,Civil,Coimbatore,65.1,6.1,54,81,68,44,62,No,No,School,7.9
+STU1172,Dinesh Devi,Male,19,Mechanical,Salem,70.7,4.2,92,80,93,37,59,Yes,Yes,Diploma,11
+STU1173,Divya Narayanan,Female,20,Mechanical,Erode,97.6,3.5,51,57,57,53,86,No,Yes,Post-Graduate,9.5
+STU1174,Lakshmi Velu,Female,18,Civil,Trichy,81.2,2.8,51,57,60,45,74,Yes,Yes,Post-Graduate,25
+STU1175,Meena Narayanan,Female,19,Civil,Chennai,70.9,3.8,44,62,87,32,78,No,Yes,Diploma,1.3
+STU1176,Ravi Subramanian,Male,20,Electronics,Vellore,82.5,1.7,61,,66,75,83,No,Yes,Post-Graduate,6.5
+STU1177,Karthik Velu,Male,18,Electronics,Coimbatore,78.4,3.4,58,58,65,39,43,No,Yes,Graduate,4
+STU1178,Ravi Ramesh,Male,18,Mechanical,Salem,72.1,6.4,49,63,82,81,79,No,No,Graduate,1.4
+STU1179,Pradeep Nair,Male,19,Computer Science,Coimbatore,61.2,3.3,98,69,53,70,64,No,No,No Schooling,18.1
+STU1180,Dinesh Pillai,Male,22,Civil,Chennai,95.3,5.4,76,52,80,68,65,No,No,Post-Graduate,10.3
+STU1181,Dinesh Velu,Male,18,Electronics,Salem,80.5,2.7,74,51,71,93,77,No,Yes,Graduate,1
+STU1182,Kavya Raj,Female,18,Mechanical,Coimbatore,100,7.2,92,,76,40,68,No,Yes,Post-Graduate,1
+STU1183,Dinesh Kumar,Male,20,Electronics,Madurai,89.3,7.3,72,65,75,79,79,No,No,Graduate,5.2
+STU1184,Arjun Devi,Male,21,Civil,Chennai,,5.4,57,71,62,58,72,No,No,Graduate,4.2
+STU1185,Siva Murugan,Male,19,Civil,Chennai,72.8,7.5,42,74,83,100,74,No,Yes,Graduate,12.4
+STU1186,Meena Kumar,Female,19,Information Technology,Chennai,64.9,5,56,50,63,56,67,No,Yes,Diploma,1.2
+STU1187,Kumar Ramesh,Male,22,Computer Science,Madurai,75.4,5.7,91,54,75,53,60,Yes,Yes,Diploma,1
+STU1188,Ravi Kumar,Male,22,Information Technology,Madurai,64.5,6.4,49,51,85,71,64,No,Yes,Diploma,1.4
+STU1189,Nithya Selvam,Female,19,Mechanical,Trichy,85.8,4.8,73,85,87,59,71,No,Yes,No Schooling,1
+STU1190,Ganesh Raj,Male,22,Electronics,Erode,97.6,2.2,84,63,67,49,92,No,Yes,Graduate,1
+STU1191,Karthik Murugan,Male,20,Mechanical,Vellore,74.9,5.7,72,65,76,46,88,No,Yes,Graduate,11.1
+STU1192,Arjun Velu,Male,19,Civil,Coimbatore,89.3,3.8,74,66,66,89,65,No,Yes,Post-Graduate,2
+STU1193,Arun Velu,Male,22,Information Technology,Trichy,69.7,3.9,78,55,100,42,73,No,Yes,School,2.4
+STU1194,Mani Velu,Male,19,Information Technology,Coimbatore,74.4,4.9,74,87,79,67,69,No,Yes,Graduate,1
+STU1195,Anjali Ramesh,Female,21,Information Technology,Vellore,68.2,5.3,92,71,71,82,73,No,Yes,No Schooling,1.4
+STU1196,Nithya Subramanian,Female,18,Mechanical,Erode,52.4,4.7,52,66,74,83,75,No,Yes,School,7.4
+STU1197,Revathi Nair,Female,19,Civil,Madurai,77.6,5.5,72,50,75,52,78,No,Yes,School,
+STU1198,Karthik Devi,Male,18,Electronics,Erode,79.5,3.4,,49,75,59,40,No,Yes,Graduate,6.3
+STU1199,Vijay Shankar,Male,22,Electronics,Madurai,,4.4,37,61,67,56,76,No,Yes,School,2.7
+STU1200,Arun Pandian,Male,18,Mechanical,Vellore,87.5,5.8,67,55,65,35,68,No,Yes,Graduate,1.7
+STU1201,Priya Nair,Female,19,Information Technology,Erode,87.7,7.2,76,50,68,73,64,Yes,Yes,School,3
+STU1202,Arjun Ramesh,Male,21,Computer Science,Trichy,66.3,7.7,92,60,56,64,81,No,No,Post-Graduate,1.8
+STU1203,Kumar Rajan,Male,22,Mechanical,Salem,83.5,5.1,100,62,79,89,88,No,Yes,Graduate,8.2
+STU1204,Kavya Raj,Female,19,Mechanical,Trichy,97,5.8,88,67,60,48,80,No,Yes,Post-Graduate,1.6
+STU1205,Mani Devi,Male,22,Civil,Coimbatore,82.6,7.5,79,58,57,83,66,Yes,Yes,Post-Graduate,4.9
+STU1206,Meena Nair,Female,20,Electronics,Trichy,99.9,3.5,70,51,70,84,60,No,No,Post-Graduate,1
+STU1207,Revathi Pillai,Female,18,Mechanical,Vellore,100,5.4,45,51,68,64,39,Yes,Yes,Post-Graduate,5.2
+STU1208,Kavya Ramesh,Female,20,Mechanical,Chennai,74.8,5.7,,82,73,24,74,No,Yes,Graduate,11
+STU1209,Arjun Selvam,Male,19,Information Technology,Coimbatore,69.6,6.7,,47,63,54,78,Yes,Yes,School,4.2
+STU1210,Arjun Pandian,Male,21,Information Technology,Erode,68.9,2.8,81,70,65,95,71,No,Yes,Diploma,3.7
+STU1211,Siva Selvam,Male,22,Computer Science,Coimbatore,59.8,3.1,49,72,78,68,82,No,No,School,14.6
+STU1212,Dinesh Velu,Male,18,Civil,Salem,71.8,4.5,77,63,78,75,57,No,Yes,Graduate,4.4
+STU1213,Mani Pandian,Male,22,Computer Science,Madurai,92.5,5.1,76,90,77,61,70,No,Yes,Graduate,1.4
+STU1214,Arun Nair,Male,19,Information Technology,Erode,51.6,6.2,73,,70,59,69,Yes,Yes,Post-Graduate,1.6
+STU1215,Kumar Pillai,Male,22,Electronics,Tirunelveli,65.6,5.3,68,91,72,29,71,No,Yes,Post-Graduate,5.5
+STU1216,Bhavani Velu,Female,18,Information Technology,Coimbatore,76.5,4.3,78,56,73,77,85,No,Yes,Diploma,6
+STU1217,Arun Shankar,Male,19,Civil,Erode,67.5,5.1,78,56,62,82,71,No,Yes,Graduate,1.6
+STU1218,Sneha Raj,Female,22,Information Technology,Erode,71.7,5,58,72,88,46,69,No,Yes,Post-Graduate,1.9
+STU1219,Naveen Rajan,Male,21,Civil,Erode,71.9,7.1,75,61,86,60,62,No,Yes,Diploma,21.2
+STU1220,Karthik Devi,Male,19,Civil,Madurai,74.9,4.7,65,89,80,57,87,Yes,Yes,Graduate,1
+STU1221,Kumar Subramanian,Male,19,Civil,Tirunelveli,69.2,3.9,46,70,65,71,56,No,Yes,School,2.3
+STU1222,Kavya Selvam,Female,21,Civil,Vellore,,5.2,60,50,76,53,66,No,Yes,Graduate,1
+STU1223,Deepa Selvam,Female,20,Civil,Trichy,89.2,4.8,45,41,82,80,91,No,Yes,Diploma,7.7
+STU1224,Kavya Velu,Female,18,Electronics,Erode,90.6,2.1,83,64,55,64,77,No,Yes,Post-Graduate,1
+STU1225,Pooja Narayanan,Female,20,Computer Science,Chennai,61.4,4.5,73,64,90,17,72,No,Yes,Graduate,5
+STU1226,Arjun Pandian,Male,22,Mechanical,Vellore,44.9,4.3,63,69,49,71,72,No,Yes,School,1
+STU1227,Divya Krishnan,Female,21,Computer Science,Salem,,3.7,89,,78,81,62,Yes,Yes,School,5
+STU1228,Siva Shankar,Male,20,Civil,Madurai,63.3,6.1,69,,87,42,71,No,Yes,Diploma,8.3
+STU1229,Kumar Devi,Male,19,Electronics,Coimbatore,80.6,3.3,47,57,69,70,68,Yes,Yes,Post-Graduate,2.3
+STU1230,Divya Pandian,Female,22,Information Technology,Madurai,59.2,5.2,61,47,68,96,74,Yes,Yes,Graduate,3.3
+STU1231,Divya Narayanan,Female,22,Electronics,Coimbatore,93.6,4.3,,48,78,65,55,No,Yes,Diploma,2.3
+STU1232,Divya Kumar,Female,20,Civil,Madurai,100,4.7,58,55,92,84,76,No,Yes,Diploma,
+STU1233,Keerthana Pandian,Female,20,Electronics,Coimbatore,80.2,5.1,72,60,67,55,83,No,No,Graduate,7.3
+STU1234,Deepa Subramanian,Female,21,Electronics,Erode,76.9,2.5,79,69,61,63,70,Yes,Yes,Graduate,1.4
+STU1235,Kavya Devi,Female,18,Civil,Trichy,74.1,4.8,77,54,65,59,79,No,No,Graduate,5.8
+STU1236,Saranya Nair,Female,20,Electronics,Coimbatore,87.4,7.9,100,69,51,56,75,No,Yes,Diploma,1
+STU1237,Pooja Shankar,Female,20,Mechanical,Tirunelveli,,2.2,50,70,81,60,65,No,Yes,Graduate,1.3
+STU1238,Ravi Narayanan,Male,19,Mechanical,Coimbatore,90,4.4,52,67,64,34,60,No,Yes,Graduate,1.8
+STU1239,Divya Kumar,Female,22,Electronics,Chennai,70.5,6.2,51,49,67,57,62,No,No,Post-Graduate,4
+STU1240,Meena Raj,Female,18,Information Technology,Coimbatore,82.1,5,64,72,81,87,75,No,Yes,Post-Graduate,2.7
+STU1241,Karthik Murugan,Male,19,Civil,Chennai,71.5,5.5,84,94,65,46,71,No,Yes,Graduate,6.2
+STU1242,Bhavani Narayanan,Female,21,Mechanical,Salem,65.3,1,53,68,79,44,86,No,Yes,Graduate,1.1
+STU1243,Mani Murugan,Male,21,Information Technology,Erode,77.5,5.4,85,24,58,64,81,No,Yes,Diploma,1
+STU1244,Kumar Devi,Male,20,Electronics,Chennai,66.9,3.4,69,82,82,65,81,Yes,Yes,Graduate,6.7
+STU1245,Nithya Selvam,Female,20,Information Technology,Trichy,92.1,5,51,55,74,70,75,No,Yes,Diploma,7.8
+STU1246,Ravi Narayanan,Male,21,Computer Science,Vellore,67.7,4.5,42,97,69,61,61,No,Yes,Diploma,1
+STU1247,Bala Raj,Male,20,Mechanical,Erode,82.4,7.9,45,67,72,64,76,Yes,Yes,Diploma,4.2
+STU1248,Suresh Rajan,Male,18,Electronics,Chennai,70.8,5.3,58,41,55,57,73,Yes,Yes,Graduate,2.1
+STU1249,Kumar Velu,Male,20,Civil,Erode,81.3,4.3,65,36,71,40,59,No,Yes,School,7.1
+STU1250,Saranya Murugan,Female,22,Electronics,Tirunelveli,71.7,2.2,88,87,68,62,85,Yes,Yes,Diploma,9.3
+STU1251,Ravi Velu,Male,20,Civil,Erode,62.9,4.7,80,80,55,76,84,No,No,Diploma,8.6
+STU1252,Divya Subramanian,Female,19,Electronics,Erode,83.8,5.7,55,96,62,72,59,No,No,No Schooling,6.8
+STU1253,Suresh Rajan,Male,18,Information Technology,Salem,75.2,4.4,74,65,68,32,65,No,No,School,1.4
+STU1254,Bala Velu,Male,19,Information Technology,Trichy,81.4,3.7,93,64,63,68,66,Yes,Yes,Graduate,7.5
+STU1255,Siva Ramesh,Male,19,Information Technology,Madurai,72.9,3.6,96,60,41,47,79,No,No,Graduate,3.4
+STU1256,Vijay Ramesh,Male,22,Computer Science,Madurai,62.1,5.3,63,56,83,88,77,No,Yes,Diploma,1
+STU1257,Priya Kumar,Female,18,Civil,Chennai,91,5.6,82,60,68,69,72,No,Yes,Post-Graduate,2.7
+STU1258,Kavya Shankar,Female,18,Information Technology,Erode,86.8,6.5,,68,43,79,75,No,Yes,Graduate,12.8
+STU1259,Ravi Selvam,Male,18,Computer Science,Chennai,71.2,3,45,53,96,63,58,No,Yes,Diploma,9.8
+STU1260,Karthik Devi,Male,18,Civil,Salem,78.8,5.3,60,42,85,62,76,No,No,Graduate,1
+STU1261,Priya Narayanan,Female,18,Electronics,Salem,90.5,4.3,100,67,66,90,71,No,Yes,Post-Graduate,6.1
+STU1262,Ganesh Krishnan,Male,22,Computer Science,Coimbatore,72.5,4.4,63,53,60,81,65,No,Yes,Diploma,7.4
+STU1263,Siva Subramanian,Male,20,Mechanical,Tirunelveli,74.4,5.1,24,20,75,65,55,No,Yes,School,1.4
+STU1264,Ganesh Murugan,Male,19,Computer Science,Salem,80.9,5.1,66,73,72,59,72,Yes,Yes,Post-Graduate,2.9
+STU1265,Keerthana Devi,Female,18,Computer Science,Coimbatore,72.5,5.3,85,49,77,32,76,No,Yes,Graduate,5.6
+STU1266,Meena Rajan,Female,20,Civil,Trichy,88.3,2.9,68,74,60,69,53,No,Yes,School,2.6
+STU1267,Revathi Pillai,Female,20,Electronics,Chennai,76,3.4,79,74,83,61,72,No,Yes,Graduate,1
+STU1268,Arjun Ramesh,Male,19,Mechanical,Vellore,68.6,6.7,82,69,64,73,73,No,Yes,Graduate,5.5
+STU1269,Ganesh Pillai,Male,22,Information Technology,Trichy,85.3,4.2,63,100,78,78,66,No,Yes,Post-Graduate,10.9
+STU1270,Bhavani Raj,Female,21,Information Technology,Salem,64.3,5,60,63,60,85,76,No,Yes,Graduate,4.8
+STU1271,Pooja Subramanian,Female,21,Computer Science,Trichy,100,6.1,70,61,100,69,71,Yes,Yes,Diploma,6.7
+STU1272,Saranya Krishnan,Female,20,Civil,Trichy,97,5.2,71,75,78,44,75,No,No,Graduate,2
+STU1273,Kavya Narayanan,Female,19,Civil,Tirunelveli,84.2,5.3,,64,100,24,78,No,Yes,Graduate,1
+STU1274,Bala Kumar,Male,21,Information Technology,Tirunelveli,83.2,5.8,69,81,80,48,78,Yes,Yes,School,4.6
+STU1275,Keerthana Krishnan,Female,20,Mechanical,Tirunelveli,82.6,1.3,57,47,63,87,83,No,Yes,Graduate,1.8
+STU1276,Arjun Subramanian,Male,22,Electronics,Trichy,72.1,3.8,79,47,80,96,76,No,Yes,Graduate,8.8
+STU1277,Priya Krishnan,Female,21,Mechanical,Salem,81.6,5.2,77,76,81,59,67,No,Yes,No Schooling,1
+STU1278,Naveen Subramanian,Male,20,Electronics,Vellore,66.9,6.6,48,49,74,37,65,No,Yes,Graduate,2.6
+STU1279,Anjali Subramanian,Female,20,Information Technology,Erode,84,4.6,62,74,78,51,60,No,Yes,Diploma,2.3
+STU1280,Saranya Pandian,Female,18,Electronics,Trichy,88.4,3.2,69,70,79,83,74,No,Yes,Diploma,12.5
+STU1281,Lakshmi Murugan,Female,22,Civil,Coimbatore,73.5,3.3,60,55,58,52,87,Yes,Yes,Diploma,1
+STU1282,Bhavani Nair,Female,18,Computer Science,Salem,70.9,5.8,78,,57,74,68,No,Yes,Diploma,1
+STU1283,Mani Pillai,Male,19,Computer Science,Trichy,63.5,4.2,67,48,60,66,77,Yes,Yes,Graduate,1.2
+STU1284,Kavya Nair,Female,18,Information Technology,Vellore,95.5,4.5,71,51,72,76,64,No,Yes,Diploma,7.7
+STU1285,Arjun Nair,Male,18,Civil,Erode,71.8,5.4,62,62,67,96,74,No,No,Graduate,1.1
+STU1286,Ravi Nair,Male,21,Mechanical,Tirunelveli,75.6,1,38,66,58,74,86,No,Yes,School,1.2
+STU1287,Arun Velu,Male,20,Civil,Salem,81.6,7.5,37,61,79,66,80,No,Yes,Post-Graduate,1
+STU1288,Kumar Ramesh,Male,22,Computer Science,Madurai,81.4,3.4,77,71,73,98,55,No,Yes,Graduate,5.7
+STU1289,Saranya Pandian,Female,18,Computer Science,Erode,87,4.9,,70,72,69,78,Yes,No,Graduate,1
+STU1290,Vijay Narayanan,Male,22,Civil,Coimbatore,73.4,1.9,,86,67,49,79,No,Yes,Diploma,1.8
+STU1291,Arun Pandian,Male,18,Civil,Trichy,64.3,3.9,70,64,65,75,74,No,Yes,Diploma,1.5
+STU1292,Bala Selvam,Male,19,Computer Science,Vellore,62.2,6.4,71,82,60,71,79,No,Yes,School,3.6
+STU1293,Pooja Selvam,Female,18,Mechanical,Madurai,71,1.6,83,78,81,57,63,Yes,No,Post-Graduate,5.9
+STU1294,Revathi Velu,Female,21,Information Technology,Vellore,66.6,6.2,75,97,62,54,73,No,No,Diploma,3.4
+STU1295,Keerthana Ramesh,Female,20,Information Technology,Madurai,74.4,4.1,84,63,73,58,84,No,Yes,Graduate,12
+STU1296,Sneha Krishnan,Female,19,Civil,Salem,93.7,5.2,71,59,90,53,83,No,Yes,Graduate,13.6
+STU1297,Ravi Murugan,Male,18,Information Technology,Madurai,73.5,5.5,63,83,66,58,78,No,Yes,Diploma,2
+STU1298,Vijay Ramesh,Male,22,Computer Science,Coimbatore,73.5,5.2,71,70,82,48,62,No,Yes,Graduate,6.8
+STU1299,Divya Velu,Female,19,Computer Science,Coimbatore,77.8,3.2,55,83,77,70,61,No,Yes,Graduate,
+STU1300,Pradeep Subramanian,Male,19,Civil,Chennai,73.1,4,62,75,74,69,73,No,Yes,Graduate,10.1
+STU1301,Suresh Rajan,Male,18,Civil,Coimbatore,77.2,2.3,71,36,75,69,74,No,Yes,Diploma,2.7
+STU1302,Suresh Murugan,Male,19,Civil,Erode,84.5,5.2,70,70,69,62,71,No,Yes,Diploma,3.4
+STU1303,Kavya Shankar,Female,22,Mechanical,Madurai,88.6,7.1,66,69,70,60,63,No,Yes,School,2.4
+STU1304,Revathi Pillai,Female,19,Information Technology,Coimbatore,90,1.8,47,67,63,89,77,No,Yes,Graduate,8.5
+STU1305,Bala Murugan,Male,22,Civil,Salem,100,3.4,78,63,70,64,73,Yes,Yes,Graduate,1.2
+STU1306,Anjali Velu,Female,18,Electronics,Vellore,84.8,4.2,81,43,63,86,75,No,No,Diploma,
+STU1307,Ananya Subramanian,Female,20,Electronics,Tirunelveli,100,4.8,93,77,82,45,79,Yes,Yes,Post-Graduate,2.1
+STU1308,Meena Subramanian,Female,19,Computer Science,Vellore,,5.8,75,70,50,74,69,No,Yes,No Schooling,1.2
+STU1309,Anjali Kumar,Female,20,Information Technology,Chennai,100,4.3,68,80,76,50,67,No,Yes,Post-Graduate,3.7
+STU1310,Meena Nair,Female,22,Civil,Vellore,73.4,4,53,43,74,53,84,No,Yes,Post-Graduate,1
+STU1311,Ganesh Ramesh,Male,19,Electronics,Madurai,74.6,6.2,90,72,73,56,64,No,Yes,Post-Graduate,1.7
+STU1312,Saranya Subramanian,Female,21,Information Technology,Chennai,76.6,5.5,72,62,82,54,67,No,Yes,Graduate,11
+STU1313,Ganesh Selvam,Male,20,Computer Science,Madurai,75.4,5.3,71,67,67,55,86,Yes,Yes,Diploma,2.4
+STU1314,Kumar Nair,Male,19,Mechanical,Salem,79,4.7,64,62,73,85,66,No,Yes,School,6.2
+STU1315,Meena Narayanan,Female,20,Information Technology,Chennai,71,6,63,73,49,64,71,No,Yes,Graduate,1
+STU1316,Dinesh Rajan,Male,19,Information Technology,Trichy,88,3.5,78,63,65,67,67,No,No,Diploma,
+STU1317,Dinesh Velu,Male,18,Mechanical,Erode,71.4,3.3,53,50,80,55,52,No,Yes,School,7.4
+STU1318,Ganesh Pillai,Male,20,Information Technology,Erode,85.9,5.6,92,66,54,78,71,No,No,Graduate,6.5
+STU1319,Keerthana Ramesh,Female,21,Computer Science,Madurai,96.3,2.1,89,62,72,69,61,Yes,No,Diploma,2.2
+STU1320,Sneha Devi,Female,21,Computer Science,Vellore,73.7,4.6,63,64,62,57,75,No,Yes,Post-Graduate,13.9
+STU1321,Dinesh Selvam,Male,22,Mechanical,Tirunelveli,87.5,4,,20,69,34,84,No,Yes,Graduate,10.9
+STU1322,Meena Raj,Female,19,Civil,Tirunelveli,84.7,2.4,38,75,63,67,48,No,Yes,Graduate,14.8
+STU1323,Kavya Shankar,Female,20,Electronics,Trichy,100,3.1,49,61,55,73,68,No,Yes,Graduate,2.5
+STU1324,Pooja Krishnan,Female,22,Civil,Chennai,71.9,4.3,79,46,75,45,77,No,Yes,Post-Graduate,1
+STU1325,Bhavani Subramanian,Female,20,Information Technology,Trichy,87.5,6.1,73,78,69,58,48,No,No,Graduate,4.4
+STU1326,Mani Devi,Male,19,Electronics,Trichy,58.5,3.5,75,74,77,73,87,Yes,Yes,Graduate,5.2
+STU1327,Mani Subramanian,Male,21,Mechanical,Vellore,,6.3,40,60,80,35,76,Yes,Yes,Diploma,1
+STU1328,Deepa Murugan,Female,18,Mechanical,Tirunelveli,82.2,4.6,62,49,85,51,84,No,Yes,Post-Graduate,6.9
+STU1329,Sneha Selvam,Female,21,Electronics,Chennai,94.7,6.5,89,67,72,70,66,Yes,Yes,Graduate,
+STU1330,Arun Murugan,Male,22,Computer Science,Salem,63.3,3.6,67,67,85,83,67,No,Yes,Diploma,
+STU1331,Bala Kumar,Male,18,Electronics,Vellore,87.4,4.4,49,78,58,100,70,No,Yes,No Schooling,1.8
+STU1332,Divya Murugan,Female,22,Information Technology,Trichy,77.2,5.1,66,59,81,98,96,No,Yes,Graduate,6.1
+STU1333,Dinesh Kumar,Male,19,Computer Science,Trichy,59.7,4.2,56,82,76,66,86,No,Yes,School,1.7
+STU1334,Revathi Shankar,Female,18,Mechanical,Salem,80.2,5.9,73,57,73,54,73,No,Yes,Post-Graduate,7.9
+STU1335,Priya Velu,Female,22,Electronics,Trichy,98.5,1.2,68,46,75,80,75,Yes,Yes,Post-Graduate,4.1
+STU1336,Kumar Kumar,Male,19,Civil,Trichy,,8.1,76,49,58,53,79,No,Yes,School,7.1
+STU1337,Mohan Devi,Male,21,Civil,Trichy,76.7,5.8,50,64,56,49,98,No,Yes,Graduate,20.4
+STU1338,Pooja Nair,Female,19,Information Technology,Erode,66.2,4.2,61,64,91,58,76,No,Yes,School,5.1
+STU1339,Keerthana Subramanian,Female,20,Civil,Vellore,72.4,3.7,84,70,68,55,73,No,Yes,Graduate,18.9
+STU1340,Kumar Krishnan,Male,19,Electronics,Coimbatore,95.2,3.2,48,64,68,70,68,No,Yes,Diploma,1
+STU1341,Nithya Nair,Female,19,Electronics,Vellore,74.7,5.5,53,79,57,52,75,No,Yes,Graduate,1.9
+STU1342,Dinesh Pillai,Male,20,Civil,Salem,94.8,6,71,61,52,65,66,No,Yes,Diploma,1
+STU1343,Saranya Velu,Female,22,Electronics,Trichy,,4.3,72,37,69,92,77,Yes,Yes,School,1.4
+STU1344,Karthik Murugan,Male,22,Information Technology,Vellore,73.6,6.2,61,63,66,65,56,No,Yes,Diploma,8.2
+STU1345,Mani Raj,Male,19,Computer Science,Erode,72,3.1,64,37,70,90,69,No,Yes,School,1
+STU1346,Dinesh Pillai,Male,20,Information Technology,Tirunelveli,67.2,2.9,76,69,71,85,80,No,Yes,Graduate,3.3
+STU1347,Deepa Selvam,Female,20,Information Technology,Salem,66.8,7.2,81,80,100,74,76,No,No,No Schooling,3.8
+STU1348,Meena Kumar,Female,21,Electronics,Madurai,82.2,5.4,52,51,66,57,67,No,Yes,Graduate,
+STU1349,Kumar Subramanian,Male,22,Computer Science,Vellore,77.8,6.6,73,85,89,82,69,No,Yes,Post-Graduate,2.9
+STU1350,Meena Rajan,Female,18,Electronics,Madurai,70.5,3.2,91,77,90,59,83,No,Yes,Graduate,7
+STU1351,Mohan Ramesh,Male,22,Mechanical,Trichy,59.4,3.1,66,,79,63,59,Yes,Yes,Post-Graduate,1
+STU1352,Vijay Devi,Male,22,Electronics,Erode,79.3,4,52,68,67,69,59,No,No,Post-Graduate,1.7
+STU1353,Nithya Krishnan,Female,21,Electronics,Erode,72.4,3.3,51,51,54,63,62,No,Yes,School,4.3
+STU1354,Bhavani Pandian,Female,18,Electronics,Vellore,75.7,5.6,66,76,76,50,72,No,No,School,5.3
+STU1355,Arjun Devi,Male,21,Computer Science,Salem,81.7,3.4,84,56,82,36,57,No,Yes,Graduate,2.3
+STU1356,Lakshmi Shankar,Female,18,Electronics,Salem,48,2.7,67,67,91,80,82,No,Yes,Post-Graduate,9.4
+STU1357,Anjali Rajan,Female,19,Computer Science,Erode,59.6,4.7,71,63,59,73,62,Yes,Yes,Post-Graduate,2.4
+STU1358,Arjun Raj,Male,18,Civil,Salem,100,2.6,53,81,67,32,74,No,Yes,No Schooling,2.3
+STU1359,Pradeep Ramesh,Male,21,Mechanical,Erode,71.9,1.8,,75,59,50,66,No,Yes,Diploma,1
+STU1360,Pooja Rajan,Female,22,Computer Science,Vellore,47.8,4.7,51,,62,66,71,Yes,Yes,School,3.6
+STU1361,Bala Murugan,Male,18,Civil,Coimbatore,60.6,1.9,60,38,78,71,54,No,Yes,Graduate,5.6
+STU1362,Kumar Kumar,Male,18,Computer Science,Erode,100,5.7,77,56,62,36,83,No,Yes,Graduate,1
+STU1363,Anjali Velu,Female,20,Computer Science,Madurai,69.6,2.4,37,75,60,61,61,No,No,School,1.6
+STU1364,Ravi Krishnan,Male,22,Mechanical,Salem,91.9,1.1,71,69,80,73,60,Yes,Yes,Diploma,6.8
+STU1365,Mohan Narayanan,Male,19,Information Technology,Erode,79.5,4.1,52,44,75,57,98,No,Yes,Graduate,2.1
+STU1366,Revathi Kumar,Female,21,Information Technology,Erode,72.2,4.7,68,40,74,68,78,No,Yes,Graduate,1.2
+STU1367,Sneha Narayanan,Female,19,Computer Science,Vellore,87.3,5.2,63,68,62,54,83,Yes,Yes,No Schooling,5
+STU1368,Vijay Pillai,Male,22,Electronics,Salem,49.4,4.8,100,50,86,79,77,No,Yes,Post-Graduate,1
+STU1369,Kumar Velu,Male,18,Civil,Coimbatore,60.7,2.9,62,52,70,49,67,No,Yes,Graduate,10.2
+STU1370,Revathi Ramesh,Female,18,Electronics,Vellore,72.1,5.6,96,74,99,42,58,No,Yes,Graduate,1
+STU1371,Lakshmi Subramanian,Female,22,Electronics,Coimbatore,61.9,5.9,77,82,72,64,69,No,Yes,Graduate,5.5
+STU1372,Pooja Pandian,Female,18,Computer Science,Tirunelveli,71,2.7,56,54,42,37,61,No,Yes,School,3.1
+STU1373,Ananya Selvam,Female,18,Computer Science,Vellore,88.2,4.2,73,64,41,25,62,Yes,Yes,School,9.2
+STU1374,Dinesh Nair,Male,18,Computer Science,Salem,79.6,4.1,63,64,77,83,55,Yes,Yes,Graduate,1
+STU1375,Divya Velu,Female,21,Computer Science,Chennai,94,4.8,72,63,86,45,73,No,Yes,School,5.1
+STU1376,Kavya Kumar,Female,21,Information Technology,Salem,80.3,4.2,57,66,61,39,89,No,Yes,Graduate,3.8
+STU1377,Ganesh Krishnan,Male,20,Computer Science,Salem,89.9,4.4,93,76,95,48,78,No,Yes,Graduate,2.9
+STU1378,Keerthana Nair,Female,19,Information Technology,Coimbatore,77.2,5.5,82,56,90,48,71,No,No,Graduate,3
+STU1379,Vijay Shankar,Male,22,Information Technology,Coimbatore,70.9,2.8,68,44,73,60,72,No,Yes,Diploma,5.8
+STU1380,Bhavani Shankar,Female,22,Computer Science,Salem,95.8,5.6,94,89,76,43,38,No,Yes,Diploma,12.5
+STU1381,Bhavani Rajan,Female,22,Mechanical,Salem,69.5,6.2,69,80,81,72,67,No,Yes,Graduate,1
+STU1382,Deepa Nair,Female,20,Civil,Salem,82.1,7,84,50,93,75,56,Yes,Yes,No Schooling,1
+STU1383,Arun Krishnan,Male,21,Electronics,Coimbatore,87.2,1.3,69,67,78,40,73,No,Yes,Graduate,7.4
+STU1384,Naveen Ramesh,Male,20,Information Technology,Salem,88.1,4.2,74,79,72,52,69,No,Yes,Graduate,
+STU1385,Divya Pillai,Female,22,Civil,Salem,64,1.6,67,75,78,54,62,No,Yes,Diploma,19.4
+STU1386,Ravi Narayanan,Male,19,Mechanical,Tirunelveli,90.6,1,69,71,76,60,73,No,No,Graduate,4.3
+STU1387,Arun Rajan,Male,18,Electronics,Trichy,66.3,4.7,71,63,81,82,73,No,Yes,School,4.7
+STU1388,Siva Shankar,Male,21,Electronics,Chennai,87.7,3.9,58,89,51,84,89,No,Yes,Diploma,1
+STU1389,Kumar Selvam,Male,21,Information Technology,Madurai,84.4,4.9,62,68,74,100,80,Yes,Yes,Post-Graduate,1.2
+STU1390,Pradeep Selvam,Male,20,Computer Science,Chennai,87.8,5.2,65,58,76,22,74,No,Yes,Post-Graduate,4.8
+STU1391,Bala Kumar,Male,21,Mechanical,Trichy,63.5,6.4,71,77,69,46,62,No,Yes,Graduate,10.8
+STU1392,Pooja Ramesh,Female,22,Information Technology,Madurai,85.1,4.6,68,66,79,96,60,No,No,Post-Graduate,18.2
+STU1393,Priya Subramanian,Female,22,Mechanical,Vellore,91,8.9,86,70,93,31,79,No,Yes,Graduate,1
+STU1394,Vijay Shankar,Male,20,Computer Science,Salem,80.3,5,81,68,72,95,70,No,Yes,Diploma,1
+STU1395,Bhavani Raj,Female,22,Computer Science,Trichy,68.2,7.3,65,72,78,66,75,Yes,Yes,Diploma,1
+STU1396,Revathi Ramesh,Female,19,Information Technology,Tirunelveli,89,1,89,51,89,66,83,No,Yes,Post-Graduate,9.1
+STU1397,Keerthana Pillai,Female,20,Computer Science,Vellore,79.4,6.5,96,,72,40,55,No,No,School,1.6
+STU1398,Saranya Narayanan,Female,19,Civil,Salem,57.9,4.2,37,85,59,55,87,No,Yes,Graduate,1
+STU1399,Pradeep Krishnan,Male,18,Electronics,Coimbatore,67.2,1.6,82,68,77,94,83,Yes,Yes,Graduate,
+STU1400,Revathi Nair,Female,19,Information Technology,Erode,71.7,5.1,58,76,44,62,49,No,Yes,Graduate,1.9
+STU1401,Priya Shankar,Female,18,Mechanical,Trichy,96.1,4,80,40,42,55,98,No,Yes,Diploma,21.2
+STU1402,Bala Nair,Male,18,Civil,Coimbatore,94,5.4,87,80,74,70,76,No,Yes,Diploma,3.3
+STU1403,Siva Selvam,Male,19,Information Technology,Trichy,93.9,6,55,58,42,60,67,No,Yes,School,1
+STU1404,Priya Krishnan,Female,20,Computer Science,Tirunelveli,80.8,2.3,40,54,54,69,78,No,Yes,Graduate,1.8
+STU1405,Lakshmi Krishnan,Female,22,Computer Science,Trichy,89,6,81,64,65,48,61,Yes,Yes,Graduate,1.8
+STU1406,Meena Krishnan,Female,22,Computer Science,Coimbatore,64.3,4.5,70,51,61,62,78,No,No,Graduate,1
+STU1407,Lakshmi Selvam,Female,18,Computer Science,Tirunelveli,78.1,6.5,43,,68,51,63,No,Yes,Graduate,1
+STU1408,Divya Pillai,Female,18,Mechanical,Madurai,83.4,4.2,100,63,83,31,94,No,Yes,School,5.3
+STU1409,Revathi Nair,Female,20,Civil,Chennai,65.1,3.8,77,80,73,72,73,No,Yes,Post-Graduate,1
+STU1410,Kumar Devi,Male,21,Electronics,Salem,80.5,4.5,78,86,60,41,79,No,Yes,Graduate,1.2
+STU1411,Bhavani Nair,Female,19,Mechanical,Trichy,98.2,4.7,88,86,86,60,63,No,No,School,1.9
+STU1412,Bhavani Murugan,Female,18,Mechanical,Salem,84.7,3.5,59,33,53,80,81,No,Yes,Diploma,6.4
+STU1413,Pradeep Narayanan,Male,22,Electronics,Erode,89,3.8,70,52,73,36,72,No,Yes,Graduate,3.9
+STU1414,Suresh Raj,Male,20,Electronics,Coimbatore,48.6,2.7,48,33,52,74,56,No,Yes,Post-Graduate,5.3
+STU1415,Mohan Devi,Male,19,Computer Science,Salem,96.7,3.8,59,48,73,58,69,No,Yes,Diploma,3.8
+STU1416,Suresh Narayanan,Male,20,Mechanical,Coimbatore,75.8,5.5,74,56,66,46,93,No,Yes,Graduate,5.2
+STU1417,Ananya Rajan,Female,19,Information Technology,Salem,68.8,4.3,43,71,83,99,81,Yes,Yes,School,1
+STU1418,Revathi Ramesh,Female,19,Electronics,Chennai,75.9,6,,58,79,63,68,Yes,No,No Schooling,12
+STU1419,Meena Ramesh,Female,18,Electronics,Chennai,60.2,4.2,54,58,63,53,51,Yes,Yes,Graduate,1
+STU1420,Anjali Pandian,Female,20,Civil,Tirunelveli,90.6,2.4,70,68,61,49,63,No,No,Graduate,2.3
+STU1421,Kavya Ramesh,Female,20,Information Technology,Chennai,74,5.4,77,41,66,79,57,No,Yes,Graduate,6.6
+STU1422,Kavya Nair,Female,22,Information Technology,Tirunelveli,,3.5,79,53,93,52,52,No,Yes,Diploma,2.6
+STU1423,Ravi Selvam,Male,22,Electronics,Chennai,76,4.1,83,58,89,77,81,No,Yes,No Schooling,13.2
+STU1424,Saranya Raj,Female,18,Computer Science,Chennai,91.4,6.4,89,62,58,63,73,Yes,Yes,Diploma,2.8
+STU1425,Karthik Subramanian,Male,18,Civil,Chennai,79.6,2.8,77,66,80,83,92,Yes,Yes,No Schooling,9.4
+STU1426,Pradeep Kumar,Male,21,Information Technology,Coimbatore,61.1,4.7,96,86,49,44,61,No,No,School,7.5
+STU1427,Saranya Pandian,Female,22,Electronics,Trichy,83.6,4.4,70,78,65,47,72,No,No,Diploma,17.8
+STU1428,Arjun Velu,Male,19,Information Technology,Tirunelveli,66.9,5.6,65,54,59,58,57,No,No,Diploma,11.8
+STU1429,Keerthana Velu,Female,20,Civil,Salem,52.1,5.8,77,61,83,59,65,Yes,Yes,Diploma,10.3
+STU1430,Pradeep Kumar,Male,18,Civil,Chennai,96,4.9,65,60,55,57,70,Yes,No,Graduate,5.9
+STU1431,Sneha Narayanan,Female,20,Mechanical,Coimbatore,83.5,4,96,58,75,100,68,Yes,Yes,School,2.1
+STU1432,Arjun Kumar,Male,20,Electronics,Coimbatore,77.1,5.2,85,69,70,100,73,Yes,Yes,School,1
+STU1433,Meena Kumar,Female,21,Civil,Coimbatore,73.9,6.5,79,39,68,68,83,No,Yes,Graduate,5.3
+STU1434,Lakshmi Velu,Female,22,Mechanical,Tirunelveli,94.8,4.5,70,77,90,71,82,Yes,Yes,School,17.3
+STU1435,Lakshmi Pandian,Female,18,Mechanical,Trichy,100,4.1,62,89,91,59,64,No,Yes,Graduate,5.8
+STU1436,Kavya Rajan,Female,20,Information Technology,Tirunelveli,83.4,5.1,79,61,68,44,72,No,Yes,School,11.9
+STU1437,Pooja Nair,Female,18,Information Technology,Salem,65.6,4.6,51,61,66,60,81,No,No,Diploma,7.3
+STU1438,Bala Krishnan,Male,19,Mechanical,Trichy,76.1,2.5,91,67,52,77,83,No,Yes,School,1
+STU1439,Mani Ramesh,Male,21,Information Technology,Madurai,83.2,4.9,65,79,70,87,65,No,Yes,School,1.3
+STU1440,Arun Ramesh,Male,19,Civil,Vellore,49.8,2.5,73,60,93,81,80,Yes,No,Graduate,1.9
+STU1441,Divya Selvam,Female,18,Computer Science,Coimbatore,82,5.1,54,78,68,36,76,No,Yes,Post-Graduate,1
+STU1442,Siva Pandian,Male,18,Civil,Tirunelveli,83.2,3.3,79,72,79,58,60,No,No,School,3.9
+STU1443,Lakshmi Selvam,Female,22,Mechanical,Madurai,93.9,4.6,61,,53,37,81,Yes,Yes,Diploma,16.7
+STU1444,Revathi Subramanian,Female,20,Mechanical,Erode,92.7,5.1,78,60,65,84,74,No,Yes,Graduate,6.4
+STU1445,Siva Subramanian,Male,20,Civil,Tirunelveli,79.3,8.2,,37,76,56,53,No,Yes,Diploma,2.5
+STU1446,Arun Selvam,Male,19,Information Technology,Chennai,96.2,5.6,58,,71,62,69,No,Yes,Graduate,1
+STU1447,Meena Pandian,Female,21,Information Technology,Vellore,100,6.5,51,65,80,72,72,Yes,Yes,School,1.7
+STU1448,Siva Selvam,Male,20,Mechanical,Chennai,78.3,7.3,91,79,63,100,65,Yes,Yes,Post-Graduate,3.4
+STU1449,Divya Ramesh,Female,22,Electronics,Trichy,83,5.2,65,56,49,68,86,No,Yes,Diploma,1.8
+STU1450,Revathi Devi,Female,19,Information Technology,Vellore,,4.9,71,62,83,59,86,Yes,No,Diploma,1
+STU1451,Anjali Murugan,Female,19,Civil,Tirunelveli,60.6,2.9,75,75,59,41,68,No,Yes,Post-Graduate,2.6
+STU1452,Divya Velu,Female,22,Information Technology,Salem,67.9,4.3,49,51,76,89,67,No,Yes,Graduate,1.3
+STU1453,Nithya Velu,Female,21,Civil,Madurai,72.7,3.4,75,56,75,60,71,Yes,Yes,Graduate,10.8
+STU1454,Dinesh Raj,Male,22,Mechanical,Salem,64.8,3.9,69,49,50,93,70,No,Yes,Graduate,1
+STU1455,Arun Kumar,Male,21,Information Technology,Tirunelveli,,7.3,58,81,83,83,65,No,Yes,Graduate,1
+STU1456,Deepa Murugan,Female,22,Civil,Trichy,73,4.7,51,87,63,55,31,Yes,No,School,1
+STU1457,Revathi Nair,Female,22,Mechanical,Chennai,90.9,3.2,77,,71,38,91,No,Yes,Graduate,1.8
+STU1458,Arun Pandian,Male,18,Electronics,Vellore,72.3,6.6,85,63,66,68,72,No,Yes,School,4.9
+STU1459,Suresh Pillai,Male,19,Civil,Salem,50.6,5.9,71,85,89,52,70,No,Yes,Graduate,5.9
+STU1460,Saranya Murugan,Female,22,Electronics,Tirunelveli,79.5,6,46,71,86,64,76,No,Yes,Post-Graduate,2.7
+STU1461,Ravi Raj,Male,22,Electronics,Salem,77.8,1.5,52,58,48,82,71,No,Yes,Diploma,
+STU1462,Ananya Subramanian,Female,20,Computer Science,Tirunelveli,67.7,7.4,62,43,97,33,67,No,Yes,Diploma,2
+STU1463,Mohan Narayanan,Male,19,Information Technology,Chennai,79.1,3.7,91,81,62,68,61,No,Yes,No Schooling,5
+STU1464,Sneha Kumar,Female,20,Civil,Vellore,65.1,5.7,64,70,95,77,52,No,Yes,No Schooling,
+STU1465,Arjun Raj,Male,19,Electronics,Madurai,82,8.3,61,,67,78,57,No,Yes,Post-Graduate,2.2
+STU1466,Saranya Krishnan,Female,20,Computer Science,Chennai,100,7.7,43,82,66,38,60,No,Yes,School,7
+STU1467,Arjun Pillai,Male,22,Mechanical,Salem,56.3,3,58,43,67,71,79,Yes,Yes,Diploma,7.3
+STU1468,Suresh Pandian,Male,22,Civil,Madurai,71.8,2.3,50,62,65,85,80,No,Yes,Graduate,5.7
+STU1469,Anjali Kumar,Female,18,Electronics,Tirunelveli,69.9,6.6,53,61,100,69,62,No,No,Post-Graduate,1
+STU1470,Kumar Nair,Male,20,Information Technology,Madurai,72.8,4.7,70,88,69,61,43,Yes,Yes,Graduate,1.3
+STU1471,Revathi Murugan,Female,21,Computer Science,Tirunelveli,90.2,3.7,62,61,66,84,72,No,Yes,Graduate,24.9
+STU1472,Kumar Subramanian,Male,18,Electronics,Chennai,84.5,5.4,93,61,71,51,67,Yes,Yes,Graduate,1
+STU1473,Bhavani Rajan,Female,20,Information Technology,Salem,88.2,4.3,84,46,58,35,67,Yes,No,Post-Graduate,1
+STU1474,Naveen Devi,Male,20,Electronics,Trichy,78.4,5.6,59,56,89,59,83,No,No,Graduate,1
+STU1475,Kavya Krishnan,Female,18,Civil,Salem,62.1,4.6,54,54,52,73,74,No,No,Graduate,1.8
+STU1476,Kumar Pillai,Male,22,Civil,Tirunelveli,64.6,5.6,89,54,63,82,61,Yes,Yes,No Schooling,1.1
+STU1477,Lakshmi Devi,Female,20,Civil,Coimbatore,87,3.2,93,65,81,73,59,No,Yes,School,3.1
+STU1478,Karthik Kumar,Male,22,Computer Science,Vellore,80,6.6,35,31,71,78,69,No,Yes,Graduate,
+STU1479,Kavya Subramanian,Female,18,Civil,Erode,93.1,5.5,69,44,77,82,62,Yes,Yes,Post-Graduate,10.4
+STU1480,Meena Subramanian,Female,22,Information Technology,Trichy,81.5,5.5,64,63,88,57,71,No,Yes,Post-Graduate,1
+STU1481,Sneha Raj,Female,19,Electronics,Madurai,63.8,2.8,78,67,82,60,83,No,Yes,Post-Graduate,1.7
+STU1482,Bala Velu,Male,21,Mechanical,Trichy,71.7,7,97,62,72,86,57,No,Yes,Graduate,4.1
+STU1483,Deepa Velu,Female,20,Information Technology,Vellore,84.8,4.5,61,64,95,41,73,No,Yes,Graduate,4.2
+STU1484,Dinesh Murugan,Male,21,Information Technology,Madurai,,5.6,37,59,62,71,82,No,Yes,Graduate,2.9
+STU1485,Nithya Raj,Female,22,Civil,Vellore,88.3,4,,65,69,50,71,No,Yes,Graduate,7.6
+STU1486,Naveen Ramesh,Male,20,Computer Science,Madurai,65.4,4.9,89,,70,83,80,No,No,Diploma,1
+STU1487,Deepa Murugan,Female,22,Electronics,Trichy,63.6,4.9,63,71,69,63,69,No,Yes,Diploma,7.6
+STU1488,Mani Ramesh,Male,19,Computer Science,Madurai,75.7,1,57,55,57,63,74,No,Yes,Post-Graduate,3.1
+STU1489,Kumar Velu,Male,18,Electronics,Madurai,95.3,5.4,61,78,51,94,77,Yes,Yes,Diploma,1
+STU1490,Meena Raj,Female,20,Electronics,Coimbatore,69.7,7.4,81,67,75,44,66,No,Yes,Post-Graduate,9.8
+STU1491,Ganesh Ramesh,Male,19,Computer Science,Salem,83.5,5.3,61,82,62,67,94,No,Yes,School,4.7
+STU1492,Siva Krishnan,Male,19,Information Technology,Salem,83.5,3.1,73,85,93,60,78,Yes,Yes,Graduate,1
+STU1493,Priya Raj,Female,20,Electronics,Erode,87.1,5.5,68,45,69,73,86,Yes,Yes,Graduate,1
+STU1494,Mohan Velu,Male,22,Computer Science,Erode,98,6.1,67,53,67,98,84,No,Yes,Graduate,1
+STU1495,Arjun Murugan,Male,19,Electronics,Tirunelveli,96.7,5.3,79,76,83,52,76,No,No,Diploma,4.2
+STU1496,Karthik Shankar,Male,21,Mechanical,Tirunelveli,70.9,4.4,61,42,75,41,87,Yes,Yes,Post-Graduate,1
+STU1497,Sneha Raj,Female,19,Information Technology,Tirunelveli,52.8,4.1,62,85,68,48,74,No,Yes,Graduate,1.2
+STU1498,Arjun Rajan,Male,22,Civil,Coimbatore,69.9,4.1,,60,62,59,64,No,Yes,Diploma,1
+STU1499,Ananya Pillai,Female,22,Electronics,Erode,78.9,5.5,53,73,100,64,72,No,No,Graduate,5.8
