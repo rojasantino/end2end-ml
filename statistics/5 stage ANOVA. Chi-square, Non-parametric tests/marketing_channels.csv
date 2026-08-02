@@ -1,0 +1,801 @@
+customer_id,channel,order_value,is_repeat,device,city_tier
+C00001,Email,949.34,0,Desktop,Tier1
+C00002,Email,822.35,0,Mobile,Tier1
+C00003,Email,979.54,0,Desktop,Tier1
+C00004,Email,1154.61,1,Mobile,Tier1
+C00005,Email,803.17,0,Desktop,Tier1
+C00006,Email,803.17,1,Desktop,Tier2
+C00007,Email,1165.84,0,Mobile,Tier3
+C00008,Email,1003.49,0,Desktop,Tier2
+C00009,Email,756.11,1,Desktop,Tier3
+C00010,Email,958.51,0,Desktop,Tier2
+C00011,Email,757.32,0,Desktop,Tier3
+C00012,Email,756.85,1,Desktop,Tier2
+C00013,Email,898.39,0,Desktop,Tier1
+C00014,Email,467.34,0,Mobile,Tier1
+C00015,Email,505.02,0,Mobile,Tier1
+C00016,Email,737.54,0,Tablet,Tier2
+C00017,Email,647.43,0,Desktop,Tier1
+C00018,Email,912.85,1,Desktop,Tier1
+C00019,Email,668.4,0,Desktop,Tier3
+C00020,Email,567.54,0,Desktop,Tier1
+C00021,Email,1143.13,1,Mobile,Tier3
+C00022,Email,804.84,1,Desktop,Tier2
+C00023,Email,863.51,0,Mobile,Tier1
+C00024,Email,565.05,0,Desktop,Tier1
+C00025,Email,741.12,0,Tablet,Tier3
+C00026,Email,872.18,1,Tablet,Tier1
+C00027,Email,619.8,0,Desktop,Tier2
+C00028,Email,925.14,0,Desktop,Tier1
+C00029,Email,729.87,0,Mobile,Tier2
+C00030,Email,791.66,0,Mobile,Tier3
+C00031,Email,729.66,0,Mobile,Tier3
+C00032,Email,1220.46,1,Desktop,Tier3
+C00033,Email,847.3,1,Mobile,Tier1
+C00034,Email,638.46,0,Mobile,Tier1
+C00035,Email,1014.51,1,Mobile,Tier1
+C00036,Email,605.83,0,Desktop,Tier1
+C00037,Email,891.77,1,Mobile,Tier2
+C00038,Email,458.07,0,Desktop,Tier1
+C00039,Email,584.36,1,Mobile,Tier1
+C00040,Email,889.37,1,Desktop,Tier2
+C00041,Email,997.69,1,Desktop,Tier2
+C00042,Email,884.27,1,Desktop,Tier2
+C00043,Email,826.87,1,Desktop,Tier1
+C00044,Email,789.78,1,Desktop,Tier1
+C00045,Email,554.3,1,Mobile,Tier1
+C00046,Email,706.03,1,Mobile,Tier3
+C00047,Email,757.87,1,Mobile,Tier1
+C00048,Email,1061.42,0,Desktop,Tier3
+C00049,Email,918.72,1,Mobile,Tier2
+C00050,Email,497.39,0,Desktop,Tier1
+C00051,Email,914.82,1,Mobile,Tier3
+C00052,Email,772.98,0,Desktop,Tier3
+C00053,Email,714.62,0,Tablet,Tier2
+C00054,Email,972.34,0,Mobile,Tier2
+C00055,Email,1056.2,0,Desktop,Tier1
+C00056,Email,1036.26,1,Mobile,Tier3
+C00057,Email,682.16,1,Tablet,Tier2
+C00058,Email,788.16,0,Desktop,Tier1
+C00059,Email,916.25,0,Mobile,Tier2
+C00060,Email,1045.11,1,Desktop,Tier2
+C00061,Email,754.17,0,Tablet,Tier2
+C00062,Email,812.87,0,Mobile,Tier3
+C00063,Email,628.73,1,Mobile,Tier1
+C00064,Email,610.76,1,Desktop,Tier1
+C00065,Email,1012.51,1,Mobile,Tier2
+C00066,Email,1121.25,1,Mobile,Tier2
+C00067,Email,835.6,0,Mobile,Tier3
+C00068,Email,1050.71,0,Desktop,Tier1
+C00069,Email,922.33,0,Mobile,Tier2
+C00070,Email,720.98,0,Desktop,Tier2
+C00071,Email,922.28,1,Mobile,Tier3
+C00072,Email,1157.61,1,Desktop,Tier3
+C00073,Email,842.83,1,Desktop,Tier1
+C00074,Email,1162.93,0,Tablet,Tier2
+C00075,Email,326.05,1,Mobile,Tier1
+C00076,Email,1014.38,0,Desktop,Tier2
+C00077,Email,867.41,0,Mobile,Tier1
+C00078,Email,790.2,0,Mobile,Tier3
+C00079,Email,868.35,0,Mobile,Tier1
+C00080,Email,452.49,0,Mobile,Tier2
+C00081,Email,806.07,1,Mobile,Tier2
+C00082,Email,921.42,1,Desktop,Tier1
+C00083,Email,1145.58,0,Mobile,Tier1
+C00084,Email,746.35,1,Mobile,Tier2
+C00085,Email,688.3,1,Desktop,Tier2
+C00086,Email,749.65,0,Mobile,Tier2
+C00087,Email,1033.08,0,Mobile,Tier1
+C00088,Email,915.75,0,Mobile,Tier1
+C00089,Email,744.05,0,Desktop,Tier3
+C00090,Email,952.65,0,Mobile,Tier1
+C00091,Email,869.42,1,Desktop,Tier1
+C00092,Email,1043.73,1,Mobile,Tier2
+C00093,Email,709.59,1,Desktop,Tier2
+C00094,Email,784.47,1,Mobile,Tier3
+C00095,Email,771.58,0,Desktop,Tier2
+C00096,Email,557.3,1,Mobile,Tier2
+C00097,Email,909.22,0,Desktop,Tier1
+C00098,Email,902.21,0,Mobile,Tier1
+C00099,Email,851.02,1,Mobile,Tier3
+C00100,Email,803.08,0,Mobile,Tier3
+C00101,Email,566.93,1,Mobile,Tier2
+C00102,Email,765.87,1,Mobile,Tier3
+C00103,Email,781.46,1,Desktop,Tier1
+C00104,Email,689.54,1,Mobile,Tier1
+C00105,Email,817.74,0,Mobile,Tier3
+C00106,Email,930.81,1,Desktop,Tier2
+C00107,Email,1227.24,0,Mobile,Tier3
+C00108,Email,884.92,0,Desktop,Tier2
+C00109,Email,901.51,0,Desktop,Tier2
+C00110,Email,835.11,1,Desktop,Tier2
+C00111,Email,466.25,0,Desktop,Tier3
+C00112,Email,844.7,0,Desktop,Tier2
+C00113,Email,862.05,1,Mobile,Tier2
+C00114,Email,1342.65,1,Mobile,Tier1
+C00115,Email,811.53,1,Mobile,Tier3
+C00116,Email,910.31,0,Mobile,Tier3
+C00117,Email,843.06,0,Mobile,Tier1
+C00118,Email,616.26,0,Mobile,Tier1
+C00119,Email,1078.56,1,Mobile,Tier2
+C00120,Email,1000.39,0,Desktop,Tier1
+C00121,Email,1008.21,1,Mobile,Tier1
+C00122,Email,668.12,0,Mobile,Tier2
+C00123,Email,1130.56,0,Desktop,Tier2
+C00124,Email,569.63,0,Desktop,Tier2
+C00125,Email,967.37,0,Mobile,Tier1
+C00126,Email,1288.09,1,Desktop,Tier2
+C00127,Email,651.89,1,Desktop,Tier2
+C00128,Email,736.74,1,Mobile,Tier1
+C00129,Email,869.93,0,Mobile,Tier2
+C00130,Email,749.3,1,Mobile,Tier1
+C00131,Email,539.87,0,Tablet,Tier1
+C00132,Email,863.71,0,Mobile,Tier1
+C00133,Email,637.54,1,Tablet,Tier1
+C00134,Email,944.72,1,Desktop,Tier3
+C00135,Email,666.12,0,Mobile,Tier2
+C00136,Email,1159.99,1,Mobile,Tier1
+C00137,Email,693.35,0,Desktop,Tier1
+C00138,Email,785.59,1,Tablet,Tier1
+C00139,Email,1012.7,1,Mobile,Tier3
+C00140,Email,603.83,0,Desktop,Tier3
+C00141,Email,895.49,1,Desktop,Tier2
+C00142,Email,1111.43,1,Desktop,Tier2
+C00143,Email,528.5,0,Tablet,Tier2
+C00144,Email,886.93,1,Mobile,Tier2
+C00145,Email,901.98,0,Desktop,Tier1
+C00146,Email,1006.36,1,Tablet,Tier1
+C00147,Email,602.61,1,Mobile,Tier3
+C00148,Email,585.91,1,Mobile,Tier2
+C00149,Email,954.39,1,Mobile,Tier1
+C00150,Email,909.4,1,Desktop,Tier2
+C00151,Email,900.1,1,Mobile,Tier3
+C00152,Email,919.29,0,Mobile,Tier1
+C00153,Email,714.0,0,Mobile,Tier1
+C00154,Email,896.45,1,Mobile,Tier2
+C00155,Email,908.61,0,Mobile,Tier1
+C00156,Email,707.13,0,Desktop,Tier2
+C00157,Email,1223.15,1,Mobile,Tier1
+C00158,Email,944.77,1,Mobile,Tier2
+C00159,Email,611.74,0,Mobile,Tier1
+C00160,Email,981.31,0,Desktop,Tier2
+C00161,Email,655.06,1,Desktop,Tier3
+C00162,Email,1007.42,1,Tablet,Tier1
+C00163,Email,1081.72,0,Mobile,Tier2
+C00164,Email,685.86,1,Mobile,Tier3
+C00165,Email,1042.68,0,Tablet,Tier1
+C00166,Email,932.56,0,Mobile,Tier1
+C00167,Email,1014.41,0,Mobile,Tier3
+C00168,Email,1229.36,0,Mobile,Tier2
+C00169,Email,800.92,1,Mobile,Tier2
+C00170,Email,699.25,0,Mobile,Tier2
+C00171,Email,672.1,0,Mobile,Tier2
+C00172,Email,686.84,0,Mobile,Tier1
+C00173,Email,834.58,1,Mobile,Tier3
+C00174,Email,918.23,0,Mobile,Tier2
+C00175,Email,905.34,1,Desktop,Tier3
+C00176,Email,1015.44,1,Mobile,Tier1
+C00177,Email,852.6,1,Mobile,Tier3
+C00178,Email,1140.71,1,Mobile,Tier1
+C00179,Email,797.07,1,Mobile,Tier3
+C00180,Email,1394.03,0,Desktop,Tier1
+C00181,Email,975.13,1,Mobile,Tier2
+C00182,Email,678.57,0,Desktop,Tier3
+C00183,Email,635.82,0,Mobile,Tier1
+C00184,Email,946.49,1,Desktop,Tier2
+C00185,Email,805.31,0,Mobile,Tier2
+C00186,Email,992.8,0,Tablet,Tier1
+C00187,Email,944.65,1,Mobile,Tier2
+C00188,Email,835.43,1,Desktop,Tier3
+C00189,Email,680.64,0,Mobile,Tier2
+C00190,Email,547.03,0,Mobile,Tier1
+C00191,Email,760.7,0,Desktop,Tier1
+C00192,Email,1021.28,0,Mobile,Tier1
+C00193,Email,892.82,0,Mobile,Tier1
+C00194,Email,600.85,1,Mobile,Tier2
+C00195,Email,884.64,1,Desktop,Tier2
+C00196,Email,927.06,0,Mobile,Tier2
+C00197,Email,673.23,1,Desktop,Tier2
+C00198,Email,880.75,1,Mobile,Tier1
+C00199,Email,861.64,0,Tablet,Tier1
+C00200,Email,621.41,1,Mobile,Tier2
+C00201,Social Media,998.71,0,Mobile,Tier2
+C00202,Social Media,1043.37,0,Desktop,Tier3
+C00203,Social Media,1158.27,1,Mobile,Tier1
+C00204,Social Media,1151.84,0,Tablet,Tier3
+C00205,Social Media,616.91,0,Desktop,Tier2
+C00206,Social Media,713.68,1,Mobile,Tier2
+C00207,Social Media,1033.31,0,Desktop,Tier3
+C00208,Social Media,1033.03,1,Mobile,Tier1
+C00209,Social Media,1033.31,0,Mobile,Tier1
+C00210,Social Media,1767.6,1,Mobile,Tier1
+C00211,Social Media,1045.6,0,Mobile,Tier2
+C00212,Social Media,1169.82,0,Desktop,Tier2
+C00213,Social Media,1129.88,1,Desktop,Tier1
+C00214,Social Media,1063.31,1,Mobile,Tier3
+C00215,Social Media,850.64,0,Desktop,Tier3
+C00216,Social Media,1086.97,1,Desktop,Tier1
+C00217,Social Media,749.98,0,Mobile,Tier1
+C00218,Social Media,867.9,1,Mobile,Tier3
+C00219,Social Media,813.22,1,Desktop,Tier1
+C00220,Social Media,938.01,1,Tablet,Tier2
+C00221,Social Media,1429.22,1,Desktop,Tier1
+C00222,Social Media,509.2,0,Mobile,Tier1
+C00223,Social Media,1070.98,0,Mobile,Tier1
+C00224,Social Media,565.2,0,Tablet,Tier2
+C00225,Social Media,816.17,1,Mobile,Tier1
+C00226,Social Media,1159.57,0,Mobile,Tier1
+C00227,Social Media,934.14,1,Mobile,Tier2
+C00228,Social Media,682.9,1,Mobile,Tier1
+C00229,Social Media,762.63,1,Mobile,Tier1
+C00230,Social Media,1069.51,1,Mobile,Tier2
+C00231,Social Media,759.32,1,Mobile,Tier1
+C00232,Social Media,967.62,0,Mobile,Tier1
+C00233,Social Media,930.03,1,Mobile,Tier2
+C00234,Social Media,776.65,1,Desktop,Tier2
+C00235,Social Media,1391.67,0,Desktop,Tier2
+C00236,Social Media,1059.46,0,Mobile,Tier3
+C00237,Social Media,474.47,0,Mobile,Tier1
+C00238,Social Media,961.02,0,Desktop,Tier2
+C00239,Social Media,774.41,1,Mobile,Tier2
+C00240,Social Media,1107.54,0,Mobile,Tier1
+C00241,Social Media,745.65,1,Mobile,Tier2
+C00242,Social Media,894.76,0,Mobile,Tier1
+C00243,Social Media,1031.1,1,Desktop,Tier3
+C00244,Social Media,1110.47,0,Mobile,Tier2
+C00245,Social Media,655.93,0,Desktop,Tier1
+C00246,Social Media,846.41,0,Mobile,Tier1
+C00247,Social Media,815.51,1,Mobile,Tier1
+C00248,Social Media,776.27,0,Mobile,Tier3
+C00249,Social Media,1308.4,1,Tablet,Tier3
+C00250,Social Media,1009.1,0,Desktop,Tier2
+C00251,Social Media,642.61,0,Desktop,Tier1
+C00252,Social Media,1121.93,1,Mobile,Tier2
+C00253,Social Media,1386.87,1,Desktop,Tier2
+C00254,Social Media,1147.14,1,Mobile,Tier2
+C00255,Social Media,585.74,0,Desktop,Tier2
+C00256,Social Media,813.47,1,Mobile,Tier1
+C00257,Social Media,1198.72,1,Mobile,Tier1
+C00258,Social Media,764.31,0,Tablet,Tier2
+C00259,Social Media,1017.64,0,Mobile,Tier1
+C00260,Social Media,1090.42,1,Desktop,Tier1
+C00261,Social Media,716.08,0,Mobile,Tier2
+C00262,Social Media,906.9,1,Mobile,Tier1
+C00263,Social Media,206.92,0,Tablet,Tier1
+C00264,Social Media,694.63,1,Desktop,Tier1
+C00265,Social Media,864.44,0,Mobile,Tier2
+C00266,Social Media,645.49,1,Desktop,Tier2
+C00267,Social Media,1279.13,0,Tablet,Tier3
+C00268,Social Media,605.37,0,Tablet,Tier2
+C00269,Social Media,823.19,0,Desktop,Tier3
+C00270,Social Media,948.76,1,Mobile,Tier1
+C00271,Social Media,1237.08,1,Mobile,Tier1
+C00272,Social Media,604.11,0,Mobile,Tier2
+C00273,Social Media,1175.9,1,Mobile,Tier1
+C00274,Social Media,922.25,0,Desktop,Tier2
+C00275,Social Media,704.07,0,Desktop,Tier3
+C00276,Social Media,1021.66,1,Desktop,Tier1
+C00277,Social Media,963.79,1,Mobile,Tier3
+C00278,Social Media,787.95,1,Desktop,Tier2
+C00279,Social Media,935.36,0,Mobile,Tier3
+C00280,Social Media,835.23,1,Mobile,Tier1
+C00281,Social Media,944.97,0,Desktop,Tier3
+C00282,Social Media,1065.67,0,Mobile,Tier3
+C00283,Social Media,1268.92,1,Mobile,Tier2
+C00284,Social Media,647.68,0,Mobile,Tier2
+C00285,Social Media,1389.27,1,Desktop,Tier2
+C00286,Social Media,490.54,1,Mobile,Tier2
+C00287,Social Media,886.61,0,Mobile,Tier2
+C00288,Social Media,1049.43,1,Mobile,Tier2
+C00289,Social Media,981.82,1,Mobile,Tier2
+C00290,Social Media,783.01,1,Desktop,Tier1
+C00291,Social Media,874.21,0,Desktop,Tier2
+C00292,Social Media,811.54,0,Desktop,Tier1
+C00293,Social Media,790.34,1,Mobile,Tier3
+C00294,Social Media,1106.91,0,Mobile,Tier1
+C00295,Social Media,998.54,0,Desktop,Tier3
+C00296,Social Media,767.56,0,Mobile,Tier2
+C00297,Social Media,1117.91,1,Desktop,Tier1
+C00298,Social Media,987.61,0,Desktop,Tier1
+C00299,Social Media,1098.83,1,Mobile,Tier3
+C00300,Social Media,1058.52,0,Desktop,Tier2
+C00301,Social Media,737.62,1,Mobile,Tier2
+C00302,Social Media,796.76,0,Mobile,Tier2
+C00303,Social Media,1084.4,1,Desktop,Tier1
+C00304,Social Media,1054.28,1,Mobile,Tier1
+C00305,Social Media,915.4,0,Mobile,Tier3
+C00306,Social Media,945.81,1,Desktop,Tier2
+C00307,Social Media,1201.09,0,Mobile,Tier1
+C00308,Social Media,789.85,0,Mobile,Tier1
+C00309,Social Media,1040.36,0,Desktop,Tier3
+C00310,Social Media,875.52,1,Desktop,Tier2
+C00311,Social Media,872.11,1,Desktop,Tier1
+C00312,Social Media,1161.73,0,Desktop,Tier1
+C00313,Social Media,1101.59,0,Desktop,Tier1
+C00314,Social Media,1098.97,0,Mobile,Tier1
+C00315,Social Media,1207.21,0,Desktop,Tier1
+C00316,Social Media,924.62,0,Mobile,Tier3
+C00317,Social Media,1070.03,0,Mobile,Tier3
+C00318,Social Media,851.74,1,Mobile,Tier3
+C00319,Social Media,991.32,0,Mobile,Tier1
+C00320,Social Media,891.37,0,Desktop,Tier2
+C00321,Social Media,941.34,0,Desktop,Tier2
+C00322,Social Media,1050.93,0,Desktop,Tier1
+C00323,Social Media,739.99,1,Desktop,Tier3
+C00324,Social Media,1380.33,0,Mobile,Tier1
+C00325,Social Media,698.68,0,Mobile,Tier3
+C00326,Social Media,652.88,0,Mobile,Tier2
+C00327,Social Media,1174.78,0,Desktop,Tier1
+C00328,Social Media,1094.17,0,Mobile,Tier1
+C00329,Social Media,1057.31,1,Mobile,Tier2
+C00330,Social Media,1058.24,0,Mobile,Tier3
+C00331,Social Media,917.31,0,Desktop,Tier3
+C00332,Social Media,722.6,0,Tablet,Tier1
+C00333,Social Media,936.68,0,Mobile,Tier2
+C00334,Social Media,771.02,1,Mobile,Tier2
+C00335,Social Media,1134.53,0,Mobile,Tier2
+C00336,Social Media,887.65,1,Desktop,Tier1
+C00337,Social Media,738.39,0,Mobile,Tier1
+C00338,Social Media,849.3,0,Desktop,Tier2
+C00339,Social Media,1010.84,0,Mobile,Tier3
+C00340,Social Media,795.98,1,Mobile,Tier2
+C00341,Social Media,739.11,0,Mobile,Tier2
+C00342,Social Media,973.61,0,Mobile,Tier3
+C00343,Social Media,973.89,1,Desktop,Tier2
+C00344,Social Media,808.47,0,Desktop,Tier2
+C00345,Social Media,816.37,0,Mobile,Tier3
+C00346,Social Media,971.05,0,Mobile,Tier3
+C00347,Social Media,601.42,0,Mobile,Tier1
+C00348,Social Media,610.36,0,Desktop,Tier2
+C00349,Social Media,761.94,0,Desktop,Tier3
+C00350,Social Media,873.04,1,Mobile,Tier2
+C00351,Social Media,988.4,1,Desktop,Tier1
+C00352,Social Media,1244.58,0,Mobile,Tier3
+C00353,Social Media,1108.69,0,Mobile,Tier1
+C00354,Social Media,884.81,1,Desktop,Tier1
+C00355,Social Media,915.82,1,Tablet,Tier1
+C00356,Social Media,699.44,0,Mobile,Tier3
+C00357,Social Media,915.93,0,Desktop,Tier3
+C00358,Social Media,856.5,0,Desktop,Tier2
+C00359,Social Media,991.0,0,Desktop,Tier3
+C00360,Social Media,738.01,0,Desktop,Tier3
+C00361,Social Media,1034.26,0,Tablet,Tier1
+C00362,Social Media,1257.2,0,Mobile,Tier3
+C00363,Social Media,896.07,1,Mobile,Tier2
+C00364,Social Media,1008.38,1,Mobile,Tier3
+C00365,Social Media,1071.83,1,Mobile,Tier3
+C00366,Social Media,831.73,0,Tablet,Tier2
+C00367,Social Media,969.3,1,Mobile,Tier3
+C00368,Social Media,922.77,0,Mobile,Tier1
+C00369,Social Media,941.49,0,Mobile,Tier2
+C00370,Social Media,749.94,1,Mobile,Tier2
+C00371,Social Media,925.39,0,Desktop,Tier3
+C00372,Social Media,1029.56,0,Desktop,Tier1
+C00373,Social Media,1239.25,0,Desktop,Tier2
+C00374,Social Media,1131.04,0,Mobile,Tier3
+C00375,Social Media,1393.7,0,Mobile,Tier2
+C00376,Social Media,751.18,1,Mobile,Tier1
+C00377,Social Media,1111.91,0,Mobile,Tier2
+C00378,Social Media,960.34,1,Desktop,Tier2
+C00379,Social Media,1401.76,0,Desktop,Tier2
+C00380,Social Media,742.17,1,Desktop,Tier1
+C00381,Social Media,735.26,1,Mobile,Tier2
+C00382,Social Media,788.13,0,Mobile,Tier3
+C00383,Social Media,452.74,0,Desktop,Tier1
+C00384,Social Media,804.33,1,Desktop,Tier2
+C00385,Social Media,752.99,0,Mobile,Tier1
+C00386,Social Media,953.09,0,Desktop,Tier3
+C00387,Social Media,995.19,1,Desktop,Tier3
+C00388,Social Media,1332.76,1,Mobile,Tier3
+C00389,Social Media,1129.09,1,Mobile,Tier1
+C00390,Social Media,793.08,0,Mobile,Tier3
+C00391,Social Media,722.35,0,Mobile,Tier3
+C00392,Social Media,1028.22,0,Mobile,Tier1
+C00393,Social Media,629.55,1,Desktop,Tier1
+C00394,Social Media,1322.92,1,Mobile,Tier3
+C00395,Social Media,1179.48,1,Desktop,Tier1
+C00396,Social Media,816.78,1,Desktop,Tier1
+C00397,Social Media,543.11,1,Mobile,Tier3
+C00398,Social Media,1217.85,0,Desktop,Tier2
+C00399,Social Media,894.8,0,Mobile,Tier1
+C00400,Social Media,1192.32,0,Mobile,Tier2
+C00401,Paid Ads,651.39,0,Mobile,Tier2
+C00402,Paid Ads,900.16,0,Desktop,Tier3
+C00403,Paid Ads,1051.31,1,Desktop,Tier3
+C00404,Paid Ads,1061.75,0,Mobile,Tier1
+C00405,Paid Ads,937.48,1,Mobile,Tier2
+C00406,Paid Ads,1205.71,1,Desktop,Tier2
+C00407,Paid Ads,783.09,0,Desktop,Tier2
+C00408,Paid Ads,1014.41,0,Mobile,Tier3
+C00409,Paid Ads,1080.07,1,Desktop,Tier3
+C00410,Paid Ads,1178.61,0,Mobile,Tier2
+C00411,Paid Ads,1227.9,0,Mobile,Tier2
+C00412,Paid Ads,768.84,1,Desktop,Tier2
+C00413,Paid Ads,666.47,1,Desktop,Tier2
+C00414,Paid Ads,1369.42,1,Mobile,Tier2
+C00415,Paid Ads,1133.08,0,Mobile,Tier2
+C00416,Paid Ads,862.88,1,Tablet,Tier2
+C00417,Paid Ads,1437.79,1,Mobile,Tier2
+C00418,Paid Ads,1078.92,0,Mobile,Tier1
+C00419,Paid Ads,1344.82,0,Mobile,Tier1
+C00420,Paid Ads,1066.88,0,Tablet,Tier1
+C00421,Paid Ads,1565.19,0,Mobile,Tier2
+C00422,Paid Ads,1488.84,0,Mobile,Tier2
+C00423,Paid Ads,987.76,0,Mobile,Tier1
+C00424,Paid Ads,1292.89,0,Mobile,Tier1
+C00425,Paid Ads,1211.34,1,Mobile,Tier2
+C00426,Paid Ads,1392.16,0,Tablet,Tier1
+C00427,Paid Ads,808.77,0,Desktop,Tier1
+C00428,Paid Ads,1221.51,0,Mobile,Tier3
+C00429,Paid Ads,1314.61,0,Desktop,Tier3
+C00430,Paid Ads,610.32,0,Mobile,Tier1
+C00431,Paid Ads,754.19,0,Mobile,Tier3
+C00432,Paid Ads,540.19,1,Desktop,Tier1
+C00433,Paid Ads,982.65,1,Tablet,Tier3
+C00434,Paid Ads,1229.39,0,Desktop,Tier1
+C00435,Paid Ads,1425.59,0,Mobile,Tier2
+C00436,Paid Ads,1068.52,1,Mobile,Tier1
+C00437,Paid Ads,1457.15,0,Mobile,Tier1
+C00438,Paid Ads,704.97,0,Desktop,Tier1
+C00439,Paid Ads,624.15,0,Mobile,Tier3
+C00440,Paid Ads,1036.11,1,Desktop,Tier1
+C00441,Paid Ads,1146.02,0,Mobile,Tier2
+C00442,Paid Ads,1041.83,1,Desktop,Tier3
+C00443,Paid Ads,533.14,1,Mobile,Tier3
+C00444,Paid Ads,1027.72,0,Mobile,Tier1
+C00445,Paid Ads,723.88,0,Mobile,Tier1
+C00446,Paid Ads,1217.42,0,Mobile,Tier1
+C00447,Paid Ads,1141.65,0,Mobile,Tier1
+C00448,Paid Ads,815.03,1,Desktop,Tier3
+C00449,Paid Ads,921.53,1,Mobile,Tier2
+C00450,Paid Ads,785.2,0,Mobile,Tier3
+C00451,Paid Ads,1034.33,0,Desktop,Tier3
+C00452,Paid Ads,1288.79,1,Desktop,Tier2
+C00453,Paid Ads,803.57,0,Desktop,Tier1
+C00454,Paid Ads,1176.01,1,Desktop,Tier2
+C00455,Paid Ads,917.44,0,Mobile,Tier2
+C00456,Paid Ads,851.78,0,Desktop,Tier1
+C00457,Paid Ads,1023.24,0,Mobile,Tier2
+C00458,Paid Ads,791.19,1,Mobile,Tier1
+C00459,Paid Ads,911.59,0,Mobile,Tier2
+C00460,Paid Ads,750.53,1,Mobile,Tier1
+C00461,Paid Ads,1541.18,1,Mobile,Tier2
+C00462,Paid Ads,1058.82,0,Mobile,Tier1
+C00463,Paid Ads,875.07,0,Tablet,Tier1
+C00464,Paid Ads,1103.49,0,Mobile,Tier1
+C00465,Paid Ads,1021.92,0,Mobile,Tier2
+C00466,Paid Ads,994.76,0,Mobile,Tier3
+C00467,Paid Ads,1203.54,0,Tablet,Tier1
+C00468,Paid Ads,1239.38,1,Desktop,Tier3
+C00469,Paid Ads,917.37,1,Mobile,Tier3
+C00470,Paid Ads,906.05,0,Mobile,Tier1
+C00471,Paid Ads,981.24,0,Mobile,Tier2
+C00472,Paid Ads,474.52,0,Desktop,Tier3
+C00473,Paid Ads,671.2,0,Mobile,Tier1
+C00474,Paid Ads,1391.72,0,Mobile,Tier1
+C00475,Paid Ads,1461.24,0,Tablet,Tier2
+C00476,Paid Ads,987.74,0,Desktop,Tier1
+C00477,Paid Ads,1194.14,0,Desktop,Tier2
+C00478,Paid Ads,1127.81,0,Tablet,Tier3
+C00479,Paid Ads,1819.72,1,Mobile,Tier2
+C00480,Paid Ads,1329.89,0,Mobile,Tier1
+C00481,Paid Ads,1018.02,0,Mobile,Tier1
+C00482,Paid Ads,811.11,1,Desktop,Tier2
+C00483,Paid Ads,648.39,0,Desktop,Tier1
+C00484,Paid Ads,1100.87,1,Mobile,Tier3
+C00485,Paid Ads,860.91,0,Desktop,Tier3
+C00486,Paid Ads,694.44,0,Mobile,Tier3
+C00487,Paid Ads,888.36,0,Desktop,Tier2
+C00488,Paid Ads,779.61,0,Mobile,Tier1
+C00489,Paid Ads,1471.79,1,Mobile,Tier2
+C00490,Paid Ads,1270.41,0,Mobile,Tier3
+C00491,Paid Ads,1048.01,1,Mobile,Tier3
+C00492,Paid Ads,1419.99,1,Mobile,Tier3
+C00493,Paid Ads,1069.34,0,Mobile,Tier3
+C00494,Paid Ads,834.68,0,Desktop,Tier3
+C00495,Paid Ads,1430.78,0,Desktop,Tier2
+C00496,Paid Ads,1184.73,0,Desktop,Tier3
+C00497,Paid Ads,790.69,0,Mobile,Tier2
+C00498,Paid Ads,1002.42,1,Desktop,Tier1
+C00499,Paid Ads,831.1,0,Mobile,Tier3
+C00500,Paid Ads,704.3,0,Mobile,Tier3
+C00501,Paid Ads,1281.54,0,Tablet,Tier2
+C00502,Paid Ads,1527.35,1,Mobile,Tier1
+C00503,Paid Ads,700.36,1,Desktop,Tier2
+C00504,Paid Ads,1190.74,0,Desktop,Tier2
+C00505,Paid Ads,887.34,1,Desktop,Tier3
+C00506,Paid Ads,928.22,1,Mobile,Tier2
+C00507,Paid Ads,901.9,0,Mobile,Tier2
+C00508,Paid Ads,834.0,0,Mobile,Tier1
+C00509,Paid Ads,1062.13,1,Tablet,Tier1
+C00510,Paid Ads,842.26,1,Mobile,Tier1
+C00511,Paid Ads,1117.61,0,Mobile,Tier3
+C00512,Paid Ads,1037.44,1,Mobile,Tier1
+C00513,Paid Ads,990.26,0,Mobile,Tier1
+C00514,Paid Ads,823.11,0,Desktop,Tier3
+C00515,Paid Ads,905.81,0,Desktop,Tier1
+C00516,Paid Ads,1238.85,0,Mobile,Tier2
+C00517,Paid Ads,1175.23,1,Desktop,Tier1
+C00518,Paid Ads,805.61,1,Mobile,Tier3
+C00519,Paid Ads,1074.83,0,Mobile,Tier2
+C00520,Paid Ads,1237.85,1,Mobile,Tier2
+C00521,Paid Ads,632.65,0,Desktop,Tier3
+C00522,Paid Ads,1185.84,1,Mobile,Tier2
+C00523,Paid Ads,884.34,0,Desktop,Tier1
+C00524,Paid Ads,1192.65,0,Mobile,Tier1
+C00525,Paid Ads,859.19,1,Mobile,Tier2
+C00526,Paid Ads,598.78,0,Mobile,Tier2
+C00527,Paid Ads,643.11,0,Mobile,Tier2
+C00528,Paid Ads,1062.02,0,Desktop,Tier1
+C00529,Paid Ads,1114.93,0,Desktop,Tier1
+C00530,Paid Ads,823.92,0,Mobile,Tier1
+C00531,Paid Ads,1209.65,1,Mobile,Tier3
+C00532,Paid Ads,634.62,1,Mobile,Tier3
+C00533,Paid Ads,1033.48,0,Tablet,Tier1
+C00534,Paid Ads,747.25,1,Mobile,Tier1
+C00535,Paid Ads,887.04,1,Desktop,Tier1
+C00536,Paid Ads,1061.85,0,Desktop,Tier2
+C00537,Paid Ads,834.9,1,Desktop,Tier3
+C00538,Paid Ads,953.86,1,Mobile,Tier1
+C00539,Paid Ads,1301.57,1,Desktop,Tier1
+C00540,Paid Ads,905.78,0,Tablet,Tier2
+C00541,Paid Ads,1258.92,0,Mobile,Tier1
+C00542,Paid Ads,767.57,0,Mobile,Tier1
+C00543,Paid Ads,1182.45,1,Mobile,Tier3
+C00544,Paid Ads,1410.39,1,Mobile,Tier2
+C00545,Paid Ads,432.09,0,Desktop,Tier1
+C00546,Paid Ads,850.78,1,Desktop,Tier1
+C00547,Paid Ads,1194.27,0,Desktop,Tier2
+C00548,Paid Ads,999.24,0,Desktop,Tier1
+C00549,Paid Ads,1142.79,1,Mobile,Tier3
+C00550,Paid Ads,899.0,0,Mobile,Tier1
+C00551,Paid Ads,1071.65,0,Mobile,Tier1
+C00552,Paid Ads,1011.08,1,Mobile,Tier1
+C00553,Paid Ads,1341.95,0,Mobile,Tier1
+C00554,Paid Ads,1113.61,0,Mobile,Tier2
+C00555,Paid Ads,1134.4,0,Desktop,Tier1
+C00556,Paid Ads,947.03,0,Tablet,Tier2
+C00557,Paid Ads,928.1,1,Mobile,Tier2
+C00558,Paid Ads,941.86,1,Mobile,Tier3
+C00559,Paid Ads,1148.61,0,Mobile,Tier2
+C00560,Paid Ads,944.75,1,Mobile,Tier1
+C00561,Paid Ads,1122.44,0,Mobile,Tier2
+C00562,Paid Ads,1568.85,0,Mobile,Tier1
+C00563,Paid Ads,1267.78,0,Mobile,Tier2
+C00564,Paid Ads,968.49,1,Desktop,Tier1
+C00565,Paid Ads,1350.3,1,Desktop,Tier3
+C00566,Paid Ads,947.98,0,Mobile,Tier1
+C00567,Paid Ads,540.47,0,Mobile,Tier1
+C00568,Paid Ads,797.98,0,Desktop,Tier2
+C00569,Paid Ads,582.3,0,Tablet,Tier3
+C00570,Paid Ads,962.12,1,Tablet,Tier2
+C00571,Paid Ads,1054.6,1,Mobile,Tier1
+C00572,Paid Ads,1469.11,0,Mobile,Tier1
+C00573,Paid Ads,1131.73,1,Desktop,Tier2
+C00574,Paid Ads,995.22,0,Desktop,Tier2
+C00575,Paid Ads,1257.35,0,Desktop,Tier1
+C00576,Paid Ads,497.22,0,Desktop,Tier1
+C00577,Paid Ads,1108.9,0,Desktop,Tier2
+C00578,Paid Ads,1242.72,0,Mobile,Tier1
+C00579,Paid Ads,680.35,1,Mobile,Tier1
+C00580,Paid Ads,1335.94,1,Mobile,Tier1
+C00581,Paid Ads,1134.62,0,Desktop,Tier1
+C00582,Paid Ads,946.18,0,Desktop,Tier2
+C00583,Paid Ads,1208.2,0,Mobile,Tier1
+C00584,Paid Ads,1617.67,0,Mobile,Tier1
+C00585,Paid Ads,1095.47,0,Desktop,Tier3
+C00586,Paid Ads,1112.06,1,Desktop,Tier1
+C00587,Paid Ads,935.16,1,Mobile,Tier3
+C00588,Paid Ads,837.54,1,Desktop,Tier3
+C00589,Paid Ads,1257.58,0,Mobile,Tier2
+C00590,Paid Ads,835.98,0,Mobile,Tier2
+C00591,Paid Ads,1067.89,1,Mobile,Tier3
+C00592,Paid Ads,930.59,1,Tablet,Tier3
+C00593,Paid Ads,1169.74,0,Tablet,Tier2
+C00594,Paid Ads,1133.42,0,Mobile,Tier2
+C00595,Paid Ads,1309.38,0,Desktop,Tier2
+C00596,Paid Ads,922.5,0,Mobile,Tier2
+C00597,Paid Ads,982.53,0,Mobile,Tier1
+C00598,Paid Ads,805.31,0,Tablet,Tier1
+C00599,Paid Ads,938.93,1,Mobile,Tier1
+C00600,Paid Ads,1144.33,1,Desktop,Tier1
+C00601,SEO,1016.26,0,Mobile,Tier2
+C00602,SEO,714.01,1,Mobile,Tier1
+C00603,SEO,1036.53,0,Desktop,Tier3
+C00604,SEO,1124.01,0,Desktop,Tier1
+C00605,SEO,954.42,0,Desktop,Tier3
+C00606,SEO,1217.82,1,Mobile,Tier1
+C00607,SEO,740.72,1,Mobile,Tier2
+C00608,SEO,655.96,0,Desktop,Tier1
+C00609,SEO,559.83,0,Desktop,Tier1
+C00610,SEO,1149.29,0,Mobile,Tier1
+C00611,SEO,997.79,0,Mobile,Tier3
+C00612,SEO,869.99,0,Tablet,Tier2
+C00613,SEO,930.39,0,Desktop,Tier2
+C00614,SEO,677.41,1,Mobile,Tier1
+C00615,SEO,1320.24,1,Tablet,Tier3
+C00616,SEO,903.26,0,Desktop,Tier2
+C00617,SEO,899.69,0,Mobile,Tier2
+C00618,SEO,1010.64,0,Mobile,Tier3
+C00619,SEO,966.58,0,Mobile,Tier1
+C00620,SEO,920.3,1,Mobile,Tier2
+C00621,SEO,737.71,1,Desktop,Tier1
+C00622,SEO,964.86,1,Desktop,Tier2
+C00623,SEO,1218.76,0,Desktop,Tier2
+C00624,SEO,1122.18,0,Mobile,Tier1
+C00625,SEO,1166.77,0,Desktop,Tier1
+C00626,SEO,787.98,0,Mobile,Tier1
+C00627,SEO,701.87,1,Mobile,Tier1
+C00628,SEO,857.36,0,Mobile,Tier1
+C00629,SEO,890.03,1,Tablet,Tier1
+C00630,SEO,1076.95,1,Desktop,Tier3
+C00631,SEO,575.36,0,Mobile,Tier1
+C00632,SEO,1155.32,1,Desktop,Tier1
+C00633,SEO,851.56,0,Desktop,Tier3
+C00634,SEO,803.16,1,Desktop,Tier1
+C00635,SEO,697.82,0,Desktop,Tier1
+C00636,SEO,582.13,0,Desktop,Tier1
+C00637,SEO,1028.17,1,Desktop,Tier3
+C00638,SEO,893.2,0,Mobile,Tier2
+C00639,SEO,647.81,0,Desktop,Tier2
+C00640,SEO,646.89,0,Mobile,Tier2
+C00641,SEO,819.56,0,Tablet,Tier3
+C00642,SEO,1180.42,1,Desktop,Tier2
+C00643,SEO,833.27,1,Desktop,Tier2
+C00644,SEO,609.43,1,Mobile,Tier3
+C00645,SEO,835.77,0,Mobile,Tier1
+C00646,SEO,830.91,1,Desktop,Tier2
+C00647,SEO,394.56,1,Mobile,Tier3
+C00648,SEO,870.23,0,Mobile,Tier1
+C00649,SEO,838.43,1,Desktop,Tier1
+C00650,SEO,1005.32,0,Desktop,Tier1
+C00651,SEO,1212.81,1,Tablet,Tier2
+C00652,SEO,1082.78,0,Desktop,Tier3
+C00653,SEO,831.6,0,Tablet,Tier1
+C00654,SEO,680.83,0,Desktop,Tier3
+C00655,SEO,1343.2,0,Desktop,Tier2
+C00656,SEO,890.66,0,Mobile,Tier3
+C00657,SEO,882.51,0,Mobile,Tier1
+C00658,SEO,875.66,1,Desktop,Tier3
+C00659,SEO,915.66,0,Desktop,Tier2
+C00660,SEO,854.02,1,Desktop,Tier1
+C00661,SEO,776.74,1,Mobile,Tier2
+C00662,SEO,781.57,0,Mobile,Tier1
+C00663,SEO,874.1,1,Mobile,Tier2
+C00664,SEO,782.18,0,Mobile,Tier3
+C00665,SEO,751.69,0,Mobile,Tier2
+C00666,SEO,899.16,0,Mobile,Tier1
+C00667,SEO,834.1,1,Desktop,Tier2
+C00668,SEO,1150.72,1,Mobile,Tier2
+C00669,SEO,402.83,1,Mobile,Tier1
+C00670,SEO,1076.47,0,Mobile,Tier3
+C00671,SEO,1104.3,0,Mobile,Tier1
+C00672,SEO,506.79,1,Mobile,Tier2
+C00673,SEO,818.32,1,Desktop,Tier2
+C00674,SEO,813.14,0,Mobile,Tier1
+C00675,SEO,626.65,0,Mobile,Tier1
+C00676,SEO,739.99,0,Desktop,Tier3
+C00677,SEO,680.1,1,Mobile,Tier1
+C00678,SEO,1195.41,1,Mobile,Tier1
+C00679,SEO,1048.42,0,Desktop,Tier2
+C00680,SEO,1108.88,0,Mobile,Tier3
+C00681,SEO,1009.9,0,Desktop,Tier2
+C00682,SEO,676.77,1,Mobile,Tier1
+C00683,SEO,785.59,0,Desktop,Tier3
+C00684,SEO,968.09,0,Mobile,Tier3
+C00685,SEO,660.02,1,Desktop,Tier1
+C00686,SEO,1008.34,0,Desktop,Tier2
+C00687,SEO,836.74,0,Mobile,Tier2
+C00688,SEO,812.53,0,Mobile,Tier3
+C00689,SEO,1007.97,0,Desktop,Tier1
+C00690,SEO,959.97,1,Tablet,Tier1
+C00691,SEO,815.03,0,Mobile,Tier1
+C00692,SEO,1088.68,1,Desktop,Tier2
+C00693,SEO,685.41,0,Mobile,Tier2
+C00694,SEO,990.87,0,Desktop,Tier2
+C00695,SEO,986.76,1,Mobile,Tier2
+C00696,SEO,824.28,0,Mobile,Tier3
+C00697,SEO,938.7,1,Mobile,Tier1
+C00698,SEO,654.8,0,Mobile,Tier1
+C00699,SEO,1046.32,0,Mobile,Tier2
+C00700,SEO,846.72,1,Desktop,Tier1
+C00701,SEO,785.91,1,Desktop,Tier3
+C00702,SEO,1068.82,1,Tablet,Tier2
+C00703,SEO,753.22,0,Desktop,Tier2
+C00704,SEO,626.48,1,Mobile,Tier1
+C00705,SEO,599.81,0,Tablet,Tier2
+C00706,SEO,989.08,0,Mobile,Tier1
+C00707,SEO,649.52,1,Desktop,Tier3
+C00708,SEO,1195.86,0,Desktop,Tier1
+C00709,SEO,505.25,1,Mobile,Tier2
+C00710,SEO,1185.36,1,Tablet,Tier1
+C00711,SEO,917.98,1,Mobile,Tier2
+C00712,SEO,862.59,0,Mobile,Tier2
+C00713,SEO,781.91,0,Mobile,Tier3
+C00714,SEO,951.84,0,Desktop,Tier2
+C00715,SEO,873.23,1,Mobile,Tier1
+C00716,SEO,1078.59,0,Mobile,Tier1
+C00717,SEO,900.56,1,Desktop,Tier3
+C00718,SEO,907.05,1,Mobile,Tier1
+C00719,SEO,814.55,0,Mobile,Tier2
+C00720,SEO,869.75,0,Mobile,Tier1
+C00721,SEO,935.4,1,Desktop,Tier1
+C00722,SEO,572.17,1,Tablet,Tier1
+C00723,SEO,637.33,0,Mobile,Tier3
+C00724,SEO,1013.79,1,Mobile,Tier1
+C00725,SEO,910.76,0,Mobile,Tier1
+C00726,SEO,846.88,1,Desktop,Tier3
+C00727,SEO,883.32,1,Desktop,Tier2
+C00728,SEO,942.56,1,Mobile,Tier2
+C00729,SEO,782.84,0,Desktop,Tier1
+C00730,SEO,739.91,0,Mobile,Tier1
+C00731,SEO,915.25,1,Desktop,Tier2
+C00732,SEO,703.89,0,Mobile,Tier1
+C00733,SEO,953.49,0,Desktop,Tier1
+C00734,SEO,573.53,0,Mobile,Tier1
+C00735,SEO,1065.25,0,Desktop,Tier1
+C00736,SEO,965.07,0,Mobile,Tier1
+C00737,SEO,926.09,0,Tablet,Tier2
+C00738,SEO,1056.88,0,Mobile,Tier2
+C00739,SEO,1179.79,0,Desktop,Tier2
+C00740,SEO,1062.59,0,Mobile,Tier2
+C00741,SEO,548.64,1,Desktop,Tier2
+C00742,SEO,649.68,0,Desktop,Tier1
+C00743,SEO,767.53,0,Mobile,Tier2
+C00744,SEO,884.7,0,Mobile,Tier3
+C00745,SEO,973.18,0,Mobile,Tier2
+C00746,SEO,749.37,0,Desktop,Tier1
+C00747,SEO,913.62,0,Mobile,Tier2
+C00748,SEO,744.03,1,Mobile,Tier1
+C00749,SEO,769.93,1,Mobile,Tier3
+C00750,SEO,626.8,1,Desktop,Tier2
+C00751,SEO,713.82,0,Desktop,Tier2
+C00752,SEO,636.7,0,Desktop,Tier3
+C00753,SEO,704.34,0,Mobile,Tier1
+C00754,SEO,1069.66,1,Desktop,Tier1
+C00755,SEO,709.11,0,Desktop,Tier1
+C00756,SEO,1353.83,0,Tablet,Tier1
+C00757,SEO,968.8,1,Mobile,Tier1
+C00758,SEO,913.27,1,Mobile,Tier3
+C00759,SEO,725.5,0,Mobile,Tier1
+C00760,SEO,1006.06,0,Mobile,Tier1
+C00761,SEO,776.39,0,Mobile,Tier2
+C00762,SEO,901.96,1,Desktop,Tier1
+C00763,SEO,1340.82,0,Desktop,Tier2
+C00764,SEO,862.71,0,Desktop,Tier2
+C00765,SEO,1086.87,0,Mobile,Tier2
+C00766,SEO,753.43,0,Desktop,Tier2
+C00767,SEO,873.7,1,Mobile,Tier1
+C00768,SEO,1198.74,1,Desktop,Tier2
+C00769,SEO,767.15,0,Mobile,Tier3
+C00770,SEO,1206.24,1,Desktop,Tier2
+C00771,SEO,1007.4,0,Desktop,Tier3
+C00772,SEO,778.76,0,Desktop,Tier1
+C00773,SEO,993.83,0,Desktop,Tier1
+C00774,SEO,1055.06,0,Mobile,Tier1
+C00775,SEO,991.93,0,Mobile,Tier3
+C00776,SEO,597.36,0,Mobile,Tier1
+C00777,SEO,749.12,1,Mobile,Tier3
+C00778,SEO,835.45,1,Desktop,Tier1
+C00779,SEO,866.6,1,Mobile,Tier3
+C00780,SEO,991.72,1,Mobile,Tier1
+C00781,SEO,911.99,0,Desktop,Tier1
+C00782,SEO,639.64,0,Mobile,Tier2
+C00783,SEO,948.44,1,Desktop,Tier2
+C00784,SEO,989.91,0,Mobile,Tier2
+C00785,SEO,980.76,0,Mobile,Tier1
+C00786,SEO,1074.54,0,Mobile,Tier3
+C00787,SEO,1030.11,0,Mobile,Tier1
+C00788,SEO,962.65,1,Mobile,Tier3
+C00789,SEO,867.37,1,Mobile,Tier3
+C00790,SEO,581.03,1,Desktop,Tier3
+C00791,SEO,957.33,0,Mobile,Tier1
+C00792,SEO,917.38,0,Tablet,Tier1
+C00793,SEO,928.88,1,Desktop,Tier3
+C00794,SEO,650.19,1,Mobile,Tier1
+C00795,SEO,685.41,0,Mobile,Tier1
+C00796,SEO,1069.57,0,Desktop,Tier2
+C00797,SEO,872.88,0,Desktop,Tier1
+C00798,SEO,1002.67,0,Desktop,Tier2
+C00799,SEO,885.1,1,Mobile,Tier3
+C00800,SEO,885.36,1,Mobile,Tier2
