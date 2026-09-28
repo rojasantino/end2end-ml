@@ -1,0 +1,62 @@
+
+=================================================================
+       SUPERMARKET SALES — EDA INSIGHT REPORT (Q1 2019)
+=================================================================
+
+DATASET
+  Transactions : 1,000
+  Total Revenue: ₹316,272
+  Period       : 2019-01-01 → 2019-03-29
+
+─────────────────────────────────────────────────────────────────
+10 KEY BUSINESS INSIGHTS
+─────────────────────────────────────────────────────────────────
+
+1. BEST BRANCH
+   Branch C leads with ₹110,561 total revenue.
+   Action: Replicate its strategies in underperforming branches.
+
+2. TOP PRODUCT LINE
+   'Sports and travel' generates the highest revenue at ₹60,496.
+   Action: Increase shelf space and promotions for this category.
+
+3. UNDERPERFORMING CATEGORY
+   'Food and beverages' has the lowest revenue.
+   Action: Run targeted discount campaigns or review pricing.
+
+4. BEST RATED PRODUCT
+   'Food and beverages' has the highest average customer rating.
+   Action: Highlight in marketing — customers love it.
+
+5. BUSIEST DAY
+   Tuesday generates the highest weekly revenue.
+   Action: Schedule more staff and stock replenishment on Tuesday.
+
+6. PEAK SHOPPING HOUR
+   Hour 8:00 sees peak revenue.
+   Action: Ensure all checkout counters are open and stocked at this time.
+
+7. PREFERRED PAYMENT
+   'Ewallet' is the most popular payment method.
+   Action: Ensure seamless Ewallet processing infrastructure.
+
+8. MEMBER vs NORMAL SPEND
+   Members avg ₹315 vs Normal customers ₹317 per transaction.
+   Normal customers spend more — review member incentives.
+
+9. STRONG CORRELATIONS
+   Total ↔ COGS ↔ Tax: Perfect correlation (expected — derived columns).
+   Unit Price → Total: Moderate positive effect.
+   Rating: Mostly independent — not driven by price or quantity.
+
+10. SEASONAL PATTERN
+    Revenue is relatively stable across Jan–Mar with slight variation.
+    Action: Prepare for any upcoming seasonal events (holidays, festivals).
+
+=================================================================
+RECOMMENDED NEXT STEPS
+─────────────────────────────────────────────────────────────────
+  • Stage 3: Build a regression model to predict transaction value
+  • Stage 4: Classify customer type from purchase behaviour
+  • Stage 6: Cluster customers by spending patterns (RFM)
+=================================================================

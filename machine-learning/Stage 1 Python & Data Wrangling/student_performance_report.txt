@@ -1,0 +1,23 @@
+============================================================
+       STUDENT PERFORMANCE ANALYSIS REPORT
+============================================================
+
+Total Students Analyzed : 500
+Pass Rate               : 84.6%
+Overall Average Score   : 67.47 / 100
+Strongest Subject       : Tamil
+Weakest Subject         : Programming
+
+--- KEY INSIGHTS ---
+1. 423 students passed (84.6%). Focus needed on the 77 who failed.
+2. Information Technology dept has the highest avg score (68.3).
+3. Students with part-time jobs score 1.1 pts lower on average.
+4. Study hours and score have a correlation of 0.01 — more study hours = higher scores.
+5. 198 students (39.6%) are below the 75% attendance threshold.
+
+--- GRADE DISTRIBUTION ---
+  Grade A: 1 students (0.2%)
+  Grade B: 167 students (33.4%)
+  Grade C: 321 students (64.2%)
+  Grade D: 11 students (2.2%)
+  Grade F: 0 students (0.0%)

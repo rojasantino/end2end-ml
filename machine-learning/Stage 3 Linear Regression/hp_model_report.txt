@@ -1,0 +1,48 @@
+
+=================================================================
+       HOUSE PRICE PREDICTOR — MODEL REPORT
+=================================================================
+
+DATASET
+  Properties   : 1,460
+  Features     : 22 (after engineering)
+  Price range  : ₹11.9L  →  ₹199.6L
+  Train / Test : 80% / 20%  (1168 / 292)
+
+─────────────────────────────────────────────────────────────────
+MODEL RESULTS
+─────────────────────────────────────────────────────────────────
+  ⭐ BEST  Linear Regression       RMSE=7.98L  R²=0.9248  CV-R²=0.9315
+          Ridge  (α=10)           RMSE=8.14L  R²=0.9218  CV-R²=0.9303
+          Lasso  (α=0.1)          RMSE=8.14L  R²=0.9218  CV-R²=0.9297
+
+─────────────────────────────────────────────────────────────────
+KEY FINDINGS
+─────────────────────────────────────────────────────────────────
+  1. Best model: Linear Regression achieves R² = 0.9248
+     → Explains 92.5% of price variance
+
+  2. Average prediction error (MAE): ₹5.34 Lakhs
+     → On a ₹70L house, typical error is ±₹5.3L
+
+  3. Top price drivers:
+     ↑ sqft, quality, city (Chennai premium), pool, bedrooms
+     ↓ age, metro distance, crime rate, school distance
+
+  4. Lasso eliminated 11 low-signal features → automatic selection
+
+  5. Chennai homes price ~35% higher than same property in Madurai
+
+─────────────────────────────────────────────────────────────────
+FILES GENERATED
+─────────────────────────────────────────────────────────────────
+  house_prices.csv               — 1,460-row dataset
+  hp_01_eda_overview.png         — Price distributions & patterns
+  hp_02_correlation.png          — Feature correlation heatmap
+  hp_03_model_comparison.png     — RMSE & R² comparison
+  hp_04_diagnostics.png          — Residual analysis
+  hp_05_feature_importance.png   — Coefficient chart
+  hp_06_scatter_matrix.png       — Price vs features
+  hp_07_whatif.png               — Price vs sqft by city
+  hp_08_regularisation.png       — Ridge & Lasso alpha curves
+=================================================================

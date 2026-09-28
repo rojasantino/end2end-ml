@@ -1,0 +1,10 @@
+BUSINESS RECOMMENDATIONS — E-COMMERCE SPEND ANALYSIS
+============================================================
+
+Free Shipping Threshold: ₹186
+P90 Value: ₹551
+P99 Value: ₹23,239
+
+VIP Revenue %: 82.2%
+Outliers Count: 93
+Skewness: 8.32
